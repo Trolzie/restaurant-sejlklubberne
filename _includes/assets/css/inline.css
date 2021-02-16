@@ -1,3 +1,27 @@
+@font-face {
+    font-family: 'Karla';
+    src: url('/_includes/assets/css/fonts/Karla-Bold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url('/_includes/assets/css/fonts/Karla-Regular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Karla';
+    src: url('/_includes/assets/css/fonts/Karla-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
 :root {
 	--primary: #436EBA;
 	--secondary: #0C3172;
@@ -12,9 +36,11 @@
 
 html,
 body {
+	height: 100%;
 	padding: 0;
 	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	/* font-family: "Karla", "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; */
+	font-family: "Karla";
 }
 
 body {
@@ -22,10 +48,6 @@ body {
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--white);
-}
-
-main {
-	max-width: 37.5em;
 }
 
 p,
@@ -48,14 +70,15 @@ img {
 	height: auto;
 }
 
-header,
-main,
 footer {
 	padding: 1em;
 }
 
 main {
-	padding-bottom: 2em;
+	width: 100%;
+	max-width: 1024px;
+	padding: 2rem;
+	margin: auto;
 }
 
 main :first-child,
@@ -80,33 +103,71 @@ pre {
 	margin: .5em 0;
 }
 
-/* Header Logo (style as h2) */
-header > em {
-	display: block;
-	font-size: 2em;
-	margin: .67em 0;
-	font-weight: bold;
-	font-style: normal;
+.header-logo {
+	width: 4rem;
+	height: 4rem;
+	background-image: url('static/img/logo.png');
+	background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
-/* Header Nav */
+.header-logo span {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
+
+.gutter {
+	width: 4rem;
+	height: 4rem;
+}
+
+header {
+	position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4rem;
+	padding: 0 2rem;
+	display: flex;
+	flex-direction: row;
+}
+
+header nav {
+	flex: 1;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}
+
 header nav ul {
 	padding: 0;
 	list-style: none;
+	display: flex;
+	flex-direction: row;
 }
 
 header nav ul :first-child {
 	margin-left: 0;
 }
 
+
 header nav li {
-	display: inline-block;
-	margin: 0 .25em;
+	margin: 0 1rem;
 }
 
 header nav li a {
 	padding: .25em .5em;
-	border-radius: .25em;
+	line-height: 2rem;
+	text-transform: uppercase;
+	font-weight: 200;
+	letter-spacing: 0.125rem;
+	text-decoration: none;
 }
 
 header nav li a[href]:not(:hover) {
@@ -114,7 +175,7 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: var(--grey);
+	border-bottom: 0.0625rem solid var(--primary);
 }
 
 /* Posts List */
@@ -195,4 +256,30 @@ button {
 	:root {
 		font-size: 1.1rem;
 	}
+}
+
+.splash {
+	width: 100%;
+	height: 100%;
+	background-color: var(--white);
+	/* background-image: linear-gradient(to right, var(--secondary), var(--secondary) 50%, var(--white) 50%, var(--white) ); */
+	/* background-size: 100% 100%; */
+	/* background-image: url('static/img/ocean-dark.jpg');
+	background-size: cover; */
+}
+
+.logo {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-top: -200px;
+	margin-left: -200px;
+	width: 400px;
+	height: 400px;
+	border-radius: 50%;
+	background-color: var(--white);
+	background-image: url('static/img/logo.png');
+	background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
 }

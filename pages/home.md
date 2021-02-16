@@ -7,6 +7,3 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Velkommen
-
-Velkommen til Reastaurant Sejlklubberne

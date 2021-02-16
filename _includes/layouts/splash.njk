@@ -3,7 +3,9 @@
 
 	{% include "components/head.njk" %}
 
-	<body>
+	<body class="splash">
+
+        <div class="logo"></div>
 
 		<header>
 			<a href="{{ '/' | url }}" class="header-logo">
@@ -21,7 +23,9 @@
 			{{ layoutContent | safe }}
 		</main>
 
-		{% include "components/footer.njk" %}
+        <div hidden>
+		    {% include "components/footer.njk" %}
+        </div>
 
 	</body>
 
