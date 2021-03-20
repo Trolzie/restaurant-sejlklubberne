@@ -5,8 +5,6 @@
 
 	<body class="splash">
 
-        <div class="logo"></div>
-
 		<header>
 			<a href="{{ '/' | url }}" class="header-logo">
                 <span>
@@ -19,13 +17,14 @@
             <div class="gutter"></div>
 		</header>
 
-		<main>
+		<main class="main-splash">
+			<div class="logo"></div>
+			{% include "components/splash-links.njk" %}
 			{{ layoutContent | safe }}
 		</main>
 
-        <div hidden>
-		    {% include "components/footer.njk" %}
-        </div>
+
+		{% include "components/footer.njk" %}
 
     <style>html{visibility: visible;opacity:1;}</style>
 	</body>
