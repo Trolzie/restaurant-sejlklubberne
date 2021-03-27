@@ -19,7 +19,9 @@
 
 		<main class="main-splash">
 			<div class="logo"></div>
-			{% include "components/splash-links.njk" %}
+			<div class="splash-links">
+				{% include "components/food-links.njk" %}
+			</div>
 			{{ layoutContent | safe }}
 		</main>
 

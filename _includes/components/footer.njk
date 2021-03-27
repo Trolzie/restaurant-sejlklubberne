@@ -1,7 +1,33 @@
-<footer>
-  <small>
-    Der skal tilføjes en et link to smiley hernede!
-  </small>
-  <div class="footer-logo"></div>
-  <p>&copy; copyright 2021</p>
+<footer class="footer">
+  <div class="footer-content">
+    <div class="footer-row">
+      <h2>Sitemap</h2>
+      {% include "components/food-links.njk" %}
+    </div>
+    <div class="footer-row">
+      <h2>Kontrolrapport</h2>
+      <a href="https://www.findsmiley.dk/573979" target="_blank">Kontrol Rapport</a> &#128578;
+    </div>
+    <div class="footer-row">
+      <h2>Kontakt</h2>
+      <ul>
+        <li>
+          <a href="mailto:kontakt@restaurantsejlklubberne.dk">kontakt@restaurantsejlklubberne.dk</a>
+        </li>
+        <li>
+          <a href="tel:39643046">tlf: 39 64 30 46</a>
+        </li>
+        <li>
+          <a href="https://maps.google.com/maps?ll=55.763422,12.600442&z=12&t=m&hl=en&gl=DK&mapclient=embed&daddr=Restaurant%20Sejlklubberne%20Skovshoved%20Havn%209%202920%20Charlottenlund@55.7634221,12.600442">
+            Skovshoved Havn 9, 2920
+            <br />
+            Charlottenlund
+          </a>
+        </li>
+    </div>
+  </div>
+  <div class="footer-copyright">
+    <div class="footer-logo"></div>
+    <p>&copy; Copyright 2021, Restaurant Sejlklubberne</p>
+  </div>
 </footer>
