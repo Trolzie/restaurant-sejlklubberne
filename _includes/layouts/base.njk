@@ -5,19 +5,9 @@
 
 	<body>
 
-		<header>
-			<a href="{{ '/' | url }}" class="header-logo">
-                <span>
-                    {{ metadata.title }}
-                </span>
-            </a>
+		{% include "components/nav.njk" %}
 
-			{% include "components/nav.njk" %}
-
-            <div class="gutter"></div>
-		</header>
-
-		<main>
+		<main>	
 			{{ layoutContent | safe }}
 		</main>
 

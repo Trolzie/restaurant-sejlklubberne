@@ -5,17 +5,7 @@
 
 	<body class="splash">
 
-		<header>
-			<a href="{{ '/' | url }}" class="header-logo">
-                <span>
-                    {{ metadata.title }}
-                </span>
-            </a>
-
-			{% include "components/nav.njk" %}
-
-            <div class="gutter"></div>
-		</header>
+		{% include "components/nav.njk" %}
 
 		<main class="main-splash">
 			<div class="logo"></div>
