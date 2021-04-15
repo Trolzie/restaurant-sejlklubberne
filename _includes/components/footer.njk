@@ -1,33 +1,42 @@
 <footer class="footer">
-  <div class="footer-content">
-    <div class="footer-row">
-      <h2>Sitemap</h2>
-      {% include "components/food-links.njk" %}
-    </div>
-    <div class="footer-row">
-      <h2>Kontrolrapport</h2>
-      <a href="https://www.findsmiley.dk/573979" target="_blank">Kontrol Rapport</a> &#128578;
-    </div>
-    <div class="footer-row">
-      <h2>Kontakt</h2>
-      <ul>
-        <li>
-          <a href="mailto:kontakt@restaurantsejlklubberne.dk">kontakt@restaurantsejlklubberne.dk</a>
-        </li>
-        <li>
-          <a href="tel:39643046">tlf: 39 64 30 46</a>
-        </li>
-        <li>
-          <a href="https://maps.google.com/maps?ll=55.763422,12.600442&z=12&t=m&hl=en&gl=DK&mapclient=embed&daddr=Restaurant%20Sejlklubberne%20Skovshoved%20Havn%209%202920%20Charlottenlund@55.7634221,12.600442">
-            Skovshoved Havn 9, 2920
-            <br />
-            Charlottenlund
-          </a>
-        </li>
-    </div>
+  <div class="social-links">
+    <a href="https://www.facebook.com/restaurantsejlklubberne" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z"/></svg>
+    </a>
+    <a href="https://www.instagram.com/restaurantsejlklubberne/" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M17.25 7.288v1.269c0 .297-.241.539-.538.539h-1.269c-.299 0-.538-.242-.538-.539v-1.269c0-.297.239-.538.538-.538h1.269c.297 0 .538.241.538.538zm-5.25 7.403c1.486 0 2.693-1.205 2.693-2.692s-1.207-2.69-2.693-2.69c-1.487 0-2.691 1.204-2.691 2.691s1.204 2.691 2.691 2.691zm4.261-3.291c.028.196.046.396.046.599 0 2.38-1.928 4.308-4.307 4.308s-4.307-1.928-4.307-4.307c0-.204.018-.403.046-.599.027-.194.066-.383.118-.567h-1.107v5.879c0 .297.241.538.538.538h9.424c.297 0 .538-.241.538-.538v-5.879h-1.107c.05.184.09.373.118.566zm7.739.6c0 6.627-5.373 12-12 12s-12-5.373-12-12 5.373-12 12-12 12 5.373 12 12zm-5-5.385c0-.892-.723-1.615-1.615-1.615h-10.77c-.892 0-1.615.723-1.615 1.615v10.769c0 .893.723 1.616 1.615 1.616h10.77c.892 0 1.615-.723 1.615-1.616v-10.769z"/></svg>
+    </a>
   </div>
-  <div class="footer-copyright">
-    <div class="footer-logo"></div>
-    <p>&copy; Copyright 2021, Restaurant Sejlklubberne</p>
+
+  <div class="food-links">
+    {% include "components/food-links.njk" %}
+  </div>
+  
+  <div class="contact-links">
+    <ul>
+      <li>
+          <a href="tel:39643046">39 64 30 46</a>
+      </li>
+      <li>
+          <a href="mailto:kontakt@restaurantsejlklubberne.dk">kontakt@restaurantsejlklubberne.dk</a>
+      </li>
+    </ul>
+    <ul>
+      <li>
+        <a href="https://maps.google.com/maps?ll=55.763422,12.600442&z=12&t=m&hl=en&gl=DK&mapclient=embed&daddr=Restaurant%20Sejlklubberne%20Skovshoved%20Havn%209%202920%20Charlottenlund@55.7634221,12.600442">
+          Skovshoved Havn 9, 2920 Charlottenlund
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="smiley">
+    <span>
+      <a href="https://www.findsmiley.dk/573979" target="_blank">Kontrol Rapport</a>
+    </span>
+  </div>
+
+  <div class="copyright">
+    <span>&copy; 2021 Restaurant Sejlklubberne</span>
   </div>
 </footer>

@@ -7,7 +7,7 @@ date: 2018-01-01
 permalink: /alacarte/index.html
 eleventyNavigation:
   key: A La Carte
-  order: 7
+  order: 4
 ---
 The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
 and saves them in the connected Netlify account where notifications can

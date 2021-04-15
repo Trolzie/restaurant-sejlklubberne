@@ -7,7 +7,7 @@ date: 2018-01-01
 permalink: /contact/index.html
 eleventyNavigation:
   key: Kontakt
-  order: 3
+  order: 6
 ---
 
 vi skal have kontakt info her:
