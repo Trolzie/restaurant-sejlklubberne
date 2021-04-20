@@ -1,7 +1,9 @@
 ---
 layout: layouts/alacarte.njk
 title: A La Carte
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.desciption will be used
+  instead.
 section: alacarte
 date: 2018-01-01
 permalink: /alacarte/index.html
@@ -9,8 +11,8 @@ eleventyNavigation:
   key: A La Carte
   order: 4
 ---
-
 ## Frokost kort
+
 Serveres fra kl. xx-xx
 Smørrebrød
 Køkkenchefens 2 gode håndmadder
@@ -84,6 +86,7 @@ Asparges – stenbidder rogn og alt det andet sæsonagtige
 Jordbær osv….
 
 ## Aften kort
+
 Serveres fra kl xx-xx
 Snacks og små retter
 Saltristede nødder
@@ -164,6 +167,7 @@ Jordbær osv….
 Skaldyrs fad i weekenden og på kedelige dage med regn boullabaisse
 
 ## All day dinning snack kort
+
 Saltristede nødder
 Charcuteri fra Rævhede Naturprodukter
 Udvalg af lufttørret pølser, skinke og oliven med surdejsbrød
