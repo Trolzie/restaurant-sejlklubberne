@@ -74,7 +74,8 @@ main {
 	width: 100%;
 	min-height: 95vh;
 	max-width: 800px;
-	margin: 4rem auto;
+	margin: 0 auto;
+	padding: 4rem 0;
 	text-align: center;
 }
 
@@ -486,4 +487,13 @@ button {
 
 .a-la-carte {
 	font-weight: 200;
+}
+
+ul.event-list {
+	margin: 0;
+	padding: 0;
+}
+
+ul.event-list li {
+	list-style-type: none;
 }
