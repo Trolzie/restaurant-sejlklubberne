@@ -50,13 +50,6 @@ body {
 	/* font-family: "Karla"; */
 }
 
-body {
-	display: grid;
-	height: 100vh;
-	grid-template-rows: auto 1fr auto;
-	background-color: var(--white);
-}
-
 p,
 pre,
 code {
@@ -80,8 +73,9 @@ img {
 main {
 	width: 100%;
 	min-height: 95vh;
-	max-width: 1024px;
-	margin: auto;
+	max-width: 800px;
+	margin: 4rem auto;
+	text-align: center;
 }
 
 main.main-splash {
@@ -89,11 +83,16 @@ main.main-splash {
 	flex-direction: column;
 	text-align: center;
 	justify-content: center;
+	margin: 0 auto;
 }
 
 main :first-child,
 main > article :first-child {
 	margin-top: 0;
+}
+
+main .a-la-carte {
+	text-align: center;
 }
 
 pre {
@@ -346,6 +345,10 @@ button {
 	fill: #dedede;
 }
 
+.footer .social-links a svg:hover {
+	fill: #ffffff;
+}
+
 .footer .contact-links ul,
 .footer .food-links ul {
 	padding: 0;
@@ -369,7 +372,7 @@ button {
 	content: '\2022';
 	right: -0.4rem;
     position: relative;
-	color: var(--primary);
+	color: var(--primary-grey);
 }
 
 .footer .smiley {
@@ -479,4 +482,8 @@ button {
 
 #menuToggle input:checked ~ ul {
 	transform: none;
+}
+
+.a-la-carte {
+	font-weight: 200;
 }

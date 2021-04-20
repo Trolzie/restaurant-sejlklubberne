@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
+title: Kontakt
 metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
 section: contact
 date: 2018-01-01
@@ -10,12 +10,17 @@ eleventyNavigation:
   order: 6
 ---
 
-vi skal have kontakt info her:
+<p>Take away er åbent man-søn fra kl. 10-19</p>
 
-addresse
-tlf
-email
+<p><a href="tel:39643046">39 64 30 46</a></p>
 
-andet info?
+<p><a href="mailto:kontakt@restaurantsejlklubberne.dk">
+  kontakt@restaurantsejlklubberne.dk
+</a></p>
+
+<p><a href="https://maps.google.com/maps?ll=55.763422,12.600442&z=12&t=m&hl=en&gl=DK&mapclient=embed&daddr=Restaurant%20Sejlklubberne%20Skovshoved%20Havn%209%202920%20Charlottenlund@55.7634221,12.600442">
+  Skovshoved Havn 9, 2920 Charlottenlund
+</a></p>
+
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d35915.46838587135!2d12.565423079101567!3d55.763422100000014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46524d0b744546df%3A0x105ae786db2b0f39!2sRestaurant%20Sejlklubberne!5e0!3m2!1sen!2sdk!4v1615726258828!5m2!1sen!2sdk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
