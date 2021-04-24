@@ -11,6 +11,8 @@ eleventyNavigation:
   key: A La Carte
   order: 4
 ---
+![](/static/img/logo_wave_blue-0.1x.jpg)
+
 ## Frokost kort
 
 Serveres fra kl. xx-xx
@@ -84,6 +86,8 @@ Dagens fisk
 Asparges – stenbidder rogn og alt det andet sæsonagtige
 
 Jordbær osv….
+
+![](/static/img/logo_wave_blue-0.1x.jpg)
 
 ## Aften kort
 
@@ -165,6 +169,8 @@ Asparges – stenbidder rogn og alt det andet sæsonagtige
 Jordbær osv….
 
 Skaldyrs fad i weekenden og på kedelige dage med regn boullabaisse
+
+![](/static/img/logo_wave_blue-0.1x.jpg)
 
 ## All day dinning snack kort
 
