@@ -31,6 +31,10 @@
 	--secondary-highlight: #1752b8;
 	--secondary-light: #a8c8ff;
 	--tertiary: #0f4060;
+	--logo-color: #10405f;
+	--logo-highlight: #1a5175;
+	--logo-offset: #072e47;
+
 	--grey: #F0EFEB;
 	--black: #000000;
 	--white: #FFFFFF;
@@ -392,12 +396,21 @@ button {
 #menuToggle {
 	display: block;
 	position: fixed;
-	top: 50px;
-	left: 50px;
+	top: 20px;
+	left: 20px;
 	z-index: 1;
 	-webkit-user-select: none;
 	user-select: none;
+	background-color: white;
 }
+
+@media screen and (min-width:768px) {
+	#menuToggle {
+		top: 50px;
+		left: 50px;
+	}
+}
+
 
 #menuToggle a {
 	text-decoration: none;
@@ -409,11 +422,11 @@ button {
 }
 
 #menuToggle a[data-current="current item"] {
-	background-color: var(--secondary-offset);
+	background-color: var(--logo-offset);
 }
 
 #menuToggle a:hover {
-	background-color: var(--secondary-highlight);
+	background-color: var(--logo-highlight);
 }
 
 #menuToggle input {
@@ -469,16 +482,23 @@ button {
 #menu {
 	position: fixed;
 	width: 300px;
-	height: 100%;
+	height: 200%;
 	margin: -74px 0 0 -50px;
 	padding: 0;
 	padding-top: 125px;
-	background: #0C3172;
+	background: var(--logo-color);
 	list-style-type: none;
 	-webkit-font-smoothing: antialiased;
 	transform-origin: 0% 0%;
 	transform: translate(-100%, 0);
 	transition: transform 0.3s cubic-bezier(0.77,0.2,0.05,1.0);
+	padding-left: 30px;
+}
+
+@media screen and (min-width:768px) {
+	#menu {
+		padding-left: 0;
+	}
 }
 
 #menuToggle input:checked ~ ul {
