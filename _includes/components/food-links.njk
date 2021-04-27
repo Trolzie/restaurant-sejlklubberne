@@ -1,7 +1,7 @@
 <ul>
     {% set navPages = collections.all | eleventyNavigation %}
     {%- for entry in navPages %}
-        {% if entry.title == 'A La Carte' %}
+        {% if entry.title == 'Restaurant' %}
             <li>
                 <a href="{{ entry.url | url }}">{{ entry.title }}</a>
             </li>

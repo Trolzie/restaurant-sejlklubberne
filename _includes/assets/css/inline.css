@@ -96,7 +96,7 @@ main > article :first-child {
 	margin-top: 0;
 }
 
-main .a-la-carte {
+main .restaurant {
 	text-align: center;
 }
 
@@ -505,7 +505,7 @@ button {
 	transform: none;
 }
 
-.a-la-carte {
+.restaurant {
 	font-weight: 200;
 }
 

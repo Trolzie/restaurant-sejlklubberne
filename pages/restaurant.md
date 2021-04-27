@@ -1,14 +1,14 @@
 ---
-layout: layouts/alacarte.njk
-title: A La Carte
+layout: layouts/restaurant.njk
+title: Restaurant
 metaDescription: This is a sample meta description. If one is not present in
   your page/post's front matter, the default metadata.desciption will be used
   instead.
-section: alacarte
+section: restaurant
 date: 2018-01-01
-permalink: /alacarte/index.html
+permalink: /restaurant/index.html
 eleventyNavigation:
-  key: A La Carte
+  key: Restaurant
   order: 4
 ---
 ![](/static/img/logo_wave_blue-0.1x.jpg)
