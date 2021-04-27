@@ -62,7 +62,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--primary);
+	color: var(--logo-color);
 }
 
 a[href]:not(:hover) {
@@ -291,12 +291,12 @@ button {
 	font-weight: 200;
 	padding: 0.5rem;
 	margin: 0 1rem;
-	color: var(--secondary);
+	color: var(--logo-color);
 	transition: all 0.2s ease-in-out;
 }
 
 .splash-links ul li a:hover {
-	background-color: var(--secondary);
+	background-color: var(--logo-color);
 	color: #FFF;
 	text-decoration: none;
 }
