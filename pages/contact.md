@@ -18,7 +18,7 @@ eleventyNavigation:
   kontakt@restaurantsejlklubberne.dk
 </a></p>
 
-<p><a href="https://maps.google.com/maps?ll=55.763422,12.600442&z=12&t=m&hl=en&gl=DK&mapclient=embed&daddr=Restaurant%20Sejlklubberne%20Skovshoved%20Havn%209%202920%20Charlottenlund@55.7634221,12.600442">
+<p><a href="https://www.google.com/maps/place/Restaurant+Sejlklubberne/@55.763477,12.600384,17z/data=!4m5!3m4!1s0x46524d0b744546df:0x105ae786db2b0f39!8m2!3d55.7634311!4d12.600442">
   Skovshoved Havn 9, 2920 Charlottenlund
 </a></p>
 
