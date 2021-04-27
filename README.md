@@ -1,5 +1,5 @@
 TODO:
 
 setup takeaway
-setup events
+setup arrangementer
 setup a la carte
