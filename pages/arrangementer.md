@@ -1,7 +1,9 @@
 ---
 layout: layouts/arrangementer.njk
 title: Arrangementer
-metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
+metaDescription: This is a sample meta description. If one is not present in
+  your page/post's front matter, the default metadata.desciption will be used
+  instead.
 section: arrangementer
 date: 2018-01-01
 permalink: /arrangementer/index.html
@@ -9,7 +11,6 @@ eleventyNavigation:
   key: Arrangementer
   order: 3
 ---
-
 <div class="splash-links">
   <ul>
     <li><a href="#bryllup">Bryllyp</a></li>
@@ -27,7 +28,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h2 id="bryllup">Bryllup</h2>
 
+![](/static/img/bryllup.jpeg)
+
 <h2 id="konfirmation">Konfirmation</h2>
+
+![](/static/img/konfirmation.jpeg)
 
 <h2 id="konference">Møde/Konference</h2>
 
