@@ -79,7 +79,7 @@ main {
 	min-height: 95vh;
 	max-width: 800px;
 	margin: 0 auto;
-	padding: 4rem 0;
+	padding: 4rem 1rem;
 	text-align: center;
 	font-weight: 200;
 }
