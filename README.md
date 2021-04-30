@@ -1,5 +1,5 @@
 TODO:
 
 
-restaurant side updates
-arragement side updates
+clean up css page
+
