@@ -12,7 +12,7 @@ eleventyNavigation:
   order: 4
 ---
 
-<div class="splash-links">
+<div class="page-links">
   <ul>
     <li><a href="#frokost-kort">Frokost Kort</a></li>
     <li><a href="#frokost-retter">Frokost Retter</a></li>

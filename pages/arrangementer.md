@@ -11,7 +11,8 @@ eleventyNavigation:
   key: Arrangementer
   order: 3
 ---
-<div class="splash-links">
+
+<div class="page-links">
   <ul>
     <li><a href="#bryllup">Bryllyp</a></li>
     <li><a href="#konfirmation">Konfirmation</a></li>

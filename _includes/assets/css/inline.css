@@ -564,3 +564,36 @@ ul.restaurant-links li {
 	margin: 1rem;
 	font-size: 1rem;
 }
+
+
+.page-links ul {
+	text-align: center;
+	padding: 0;
+}
+
+.page-links ul li {
+	display: block;
+	list-style: none;
+}
+
+@media only screen and (min-width: 540px) {
+	.page-links ul li {
+		display: inline-block;
+	}
+}
+
+.page-links ul li a {
+	display: inline-block;
+	list-style: none;
+	font-weight: 200;
+	padding: 0.5rem;
+	margin: 0 0.3rem;
+	color: var(--logo-color);
+	transition: all 0.2s ease-in-out;
+}
+
+.page-links ul li a:hover {
+	background-color: var(--logo-color);
+	color: #FFF;
+	text-decoration: none;
+}
