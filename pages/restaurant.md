@@ -11,9 +11,18 @@ eleventyNavigation:
   key: Restaurant
   order: 4
 ---
+
+<ul class="restaurant-links">
+  <li><a href="#frokost-kort">Frokost Kort</a></li>
+  <li><a href="#frokost-retter">Frokost Retter</a></li>
+  <li><a href="#aften-kort">Aften Kort</a></li>
+  <li><a href="#all-day">All Day Dinning Snack Kort</a></li>
+</ul>
+
+
 ![](/static/img/logo_wave_blue-0.1x.jpg)
 
-## Frokost kort
+<h2 id="frokost-kort">Frokost Kort</h2>
 
 Serveres fra kl. xx-xx
 Smørrebrød
@@ -29,7 +38,7 @@ Ristet surdejsbrød med cremet hønsesalat, syltede asparges, svampe og karse
 Kartoffel
 Hjemmebagt rugbrød med kartoffel, rygeost sprøde løg og kul
 
-### Frokost retter
+<h2 id="frokost-retter">Frokost Retter</h2>
 
 Rørt tatar
 Rørt tatar af okse med sprøde salater og aromatiske krydderurter
@@ -89,7 +98,7 @@ Jordbær osv….
 
 ![](/static/img/logo_wave_blue-0.1x.jpg)
 
-## Aften kort
+<h2 id="aften-kort">Aften Kort</h2>
 
 Serveres fra kl xx-xx
 Snacks og små retter
@@ -172,7 +181,7 @@ Skaldyrs fad i weekenden og på kedelige dage med regn boullabaisse
 
 ![](/static/img/logo_wave_blue-0.1x.jpg)
 
-## All day dinning snack kort
+<h2 id="all-day">All Day Dinning Snack Kort</h2>
 
 Saltristede nødder
 Charcuteri fra Rævhede Naturprodukter
