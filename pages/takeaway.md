@@ -10,4 +10,4 @@ eleventyNavigation:
   order: 2
 ---
 
-Takeaway tekst her..
+<a href="https://login.onlinepos.dk/taw_v3/13687/?page=menukort&pgid=1576165">Bestil Take Away</a>
