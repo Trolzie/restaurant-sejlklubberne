@@ -23,6 +23,8 @@ eleventyNavigation:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+<a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
+
 ![](/static/img/restaurant.jpeg)
 
 ![](/static/img/logo_wave_blue-0.1x.jpg)
@@ -199,3 +201,5 @@ Serveres med grillet surdejsbrød, citron og en lækker salat
 (Spørg tjeneren om dagens udvalg)
 Dagens udvalg af kager
 Tjek kagemontre i baren eller spørg tjeneren
+
+<a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>

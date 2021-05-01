@@ -526,22 +526,21 @@ ul.event-list li {
 }
 
 /* takeaway */
-
-a.takeaway-link,
-a.takeaway-link:visited {
-	color: #FFFFFF;
-}
-
-a.takeaway-link:hover {
-	background-color: var(--logo-highlight);
-}
-
-a.takeaway-link {
+a.call-to-action {
 	background-color: var(--logo-color);
-	padding: 0.5rem 1rem;
+	padding: 0.5rem 2rem;
 	margin: 2rem;
 	display: inline-block;
 	text-decoration: none;
+}
+
+a.call-to-action,
+a.call-to-action:visited {
+	color: #FFFFFF;
+}
+
+a.call-to-action:hover {
+	background-color: var(--logo-highlight);
 }
 
 h1 {

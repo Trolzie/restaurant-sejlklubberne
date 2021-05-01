@@ -11,8 +11,8 @@ eleventyNavigation:
   key: Takeaway
   order: 2
 ---
-<a class="takeaway-link" target="_blank" href="https://login.onlinepos.dk/taw_v3/13687/?page=menukort&pgid=1576165">Bestil Takeaway</a>
+<a class="call-to-action" target="_blank" href="https://login.onlinepos.dk/taw_v3/13687/?page=menukort&pgid=1576165">Bestil Takeaway</a>
 
 ![](/static/img/takeaway.jpg)
 
-<a class="takeaway-link" target="_blank" href="https://login.onlinepos.dk/taw_v3/13687/?page=menukort&pgid=1576165">Bestil Takeaway</a>
+<a class="call-to-action" target="_blank" href="https://login.onlinepos.dk/taw_v3/13687/?page=menukort&pgid=1576165">Bestil Takeaway</a>
