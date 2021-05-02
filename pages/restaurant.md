@@ -31,7 +31,7 @@ Restauranten har åbent for frokost fra kl. 12:00 – 15:00 og aftenservering fr
 
 <a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
 
-![](/static/img/restaurant.jpeg)
+![](/static/img/180881031_889854698259351_8564399153402122095_n.jpg)
 
 ![](/static/img/logo_wave_blue-0.1x.jpg)
 
