@@ -177,18 +177,26 @@ Hindbær - brændt hvid chokolade - sorbet
 **Lokaleoversigt**
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres fest. Fælles for dem alle er den flotte havudsigt. 
+
+
 Billede af alle lokalerne
 
 Lokale Nord og Øst har panoramaudsigt over smukke Øresund. Her er der plads til 120 siddende gæster og udgang til egen terrasse. 
+
 Lokale Nord har panoramaudsigt over smukke Øresund, og der er plads til 30 siddende gæster.
+
 Lokale Øst har panoramaudsigt over smukke Øresund, udgang til egen terrasse og plads til 80 siddende gæster.
 
 Lokale Syd – Sejklubbernes gamle lokaler
-Lokale Syd et og to har udsigt til både Øresund og havnen. Her er der plads til 80 siddende gæster og udgang til den fælles terrasse. 
-Lokale Syd 1 har udsigt til Øresund og havnen. Her er der plads til 30 siddende gæster og udgang til den fælles terrasse.
-Lokale Syd 2 har udsigt til Øresund, og her er der plads til 50 siddende gæster. 
 
-Nb: På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
+Lokale Syd et og to har udsigt til både Øresund og havnen. Her er der plads til 80 siddende gæster og udgang til den fælles terrasse. 
+
+Lokale Syd et har udsigt til Øresund og havnen. Her er der plads til 30 siddende gæster og udgang til den fælles terrasse.
+
+Lokale Syd to har udsigt til Øresund, og her er der plads til 50 siddende gæster. 
+
+**Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
+
 Lejen er som følgende og pålægges den samlede pris
 Nord og Øst: 3.000 kr.
 Nord: 1.000 kr.
@@ -199,7 +207,105 @@ Syd 2: 1.500 kr.
 
 <h2 id="konference">Møde/Konference</h2>
 
+I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres næste møde eller konference. Udnyt de smukke omgivelser med en Walk and Talk langs havnepromenaden eller få frisk luft til hovedet, blot ved at åbne et vindue. 
+
+Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+
+**Konferencepakke 1**
+
+Nedenstående er et eksempel på morgen halvdagsmøde i tidsrummet fra kl. 6:30 - 16:00 
+
+(max 4 timer eller efter skriftlig aftale)
+
+**Let morgenmad**
+
+Kaffe, te og juice
+Yoghurt med granola og kompot
+Surdejsbrød og rugbrød med saltet smør, ost og marmelade
+
+**Formiddagspause**
+
+Kaffe, te, friskpresset juice, salt og sødt fra køkkenet
+
+2-retters frokostmenu efter køkkenchefens valg
+
+Drikkevarer efter forbrug
+
+Eftermiddagspause
+Kaffe, te og hjemmebag fra egen konditor
+
+650 kr. pr person
+
+Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke, penne og vand med og uden brus. Andet udstyr kan arrangeres efter ønske og aftale, og afregnes udover den faste pris.
+
+**Konferencepakke 2**
+
+Nedenstående er et eksempel på heldagsmøde i tidsrummet fra kl. 08:00 - 22:00
+
+**Let morgenmad**
+
+Kaffe, te og juice
+Yoghurt med granola og kompot
+Surdejsbrød og rugbrød med saltet smør, ost og marmelade
+
+**Formiddagspause**
+
+Kaffe, te, friskpresset juice, salt og sødt fra køkkenet
+
+**2-retters frokostmenu** efter køkkenchefens valg
+
+Drikkevarer efter forbrug
+
+**Eftermiddagspause**
+
+Kaffe, te og hjemmebag fra egen konditor
+
+**Middag**
+
+Velkomst
+
+3-retters Sharing Menu bestående af udvalgte forretter, hovedret og dessert
+
+Drikkevarer under middag efter forbrug
+
+Kaffe og sødt
+
+1.350 kr. pr person 
+
+Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke, penne og vand med og uden brus. Andet udstyr kan arrangeres efter ønske og aftale, og afregnes udover den faste pris.
+
+Vores middag serveres som Sharing Style. Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
+
+**Lokaleoversigt**
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres næste møde eller konference. Fælles for dem alle er den flotte havudsigt. 
+
+Lokale Nord og Øst har panoramaudsigt over smukke Øresund. Her er der plads til 120 siddende gæster og udgang til egen terrasse. 
+
+Lokale Nord har panoramaudsigt over smukke Øresund, og der er plads til 30 siddende gæster.
+
+Lokale Øst har panoramaudsigt over smukke Øresund, udgang til egen terrasse og plads til 80 siddende gæster.
+
+Lokale Syd – Sejklubbernes gamle lokaler
+
+Lokale Syd et og to har udsigt til både Øresund og havnen. Her er der plads til 80 siddende gæster og udgang til den fælles terrasse. 
+
+Lokale Syd et har udsigt til Øresund og havnen. Her er der plads til 30 siddende gæster og udgang til den fælles terrasse.
+
+Lokale Syd to har udsigt til Øresund, og her er der plads til 50 siddende gæster. 
+
+**Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
+
+Lejen er som følgende og pålægges den samlede pris
+Nord og Øst: 3.000 kr.
+Nord: 1.000 kr.
+Øst: 2.000 kr.
+Syd 1 og 2: 2.500 kr.
+Syd 1: 1.000 kr.
+Syd 2: 1.500 kr.
+
 <h2 id="arrangement">Frokost/Aften Arrangement</h2>
+
+
 
 <h2 id="brunch">Brunch</h2>
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for en lækker brunch. 
@@ -279,13 +385,18 @@ Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres 
 Billede af alle lokalerne
 
 Lokale Nord og Øst har panoramaudsigt over smukke Øresund. Her er der plads til 120 siddende gæster og udgang til egen terrasse. 
+
 Lokale Nord har panoramaudsigt over smukke Øresund, og der er plads til 30 siddende gæster.
+
 Lokale Øst har panoramaudsigt over smukke Øresund, udgang til egen terrasse og plads til 80 siddende gæster.
 
 Lokale Syd – Sejklubbernes gamle lokaler
+
 Lokale Syd et og to har udsigt til både Øresund og havnen. Her er der plads til 80 siddende gæster og udgang til den fælles terrasse. 
-Lokale Syd 1 har udsigt til Øresund og havnen. Her er der plads til 30 siddende gæster og udgang til den fælles terrasse.
-Lokale Syd 2 har udsigt til Øresund, og her er der plads til 50 siddende gæster. 
+
+Lokale Syd et har udsigt til Øresund og havnen. Her er der plads til 30 siddende gæster og udgang til den fælles terrasse.
+
+Lokale Syd to har udsigt til Øresund, og her er der plads til 50 siddende gæster. 
 
 Nb: På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
 Lejen er som følgende og pålægges den samlede pris
@@ -297,6 +408,7 @@ Syd 1: 1.000 kr.
 Syd 2: 1.500 kr.
 
 <h2 id="begravelse">Begravelse</h2>
+
 Et sidste farvel er altid svært. Hos Sejlklubbernes restaurant vil vi gøre vores til, at danne hyggelige rammer om jeres sidste farvel. I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi nedenstående.
 
 Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
