@@ -87,7 +87,7 @@ Syd 2: 1.500 kr.
 ![](/static/img/konfirmation.jpeg)
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres barns store dag. 
 
-De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 og vi får en uforpligtende snak om den store dage.
+De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak om den store dage.
 
 **Frokostarrangement 12:00-16:00**
 
@@ -137,8 +137,8 @@ Røget laks fra Færøerne
 Agurk - dildolie - urtecreme
 
 Rørt tatar
-Bitre salater - sprød kartoffel\
---
+Bitre salater - sprød kartoffel
+
 Oksehøjreb 58°
 Timian - små bagte gulerødder - portvinssauce
 
@@ -147,7 +147,7 @@ Karse - brunet smør
 
 Rødbedesalat
 Stikkelsbær - sherry - sprødt kyllingeskind
---
+
 Mandelkage
 Honning mousse - syltede rabarber - brændt hvid chokolade
 
@@ -177,7 +177,6 @@ Hindbær - brændt hvid chokolade - sorbet
 **Lokaleoversigt**
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres fest. Fælles for dem alle er den flotte havudsigt. 
-
 
 Billede af alle lokalerne
 
@@ -304,8 +303,6 @@ Syd 1: 1.000 kr.
 Syd 2: 1.500 kr.
 
 <h2 id="arrangement">Frokost/Aften Arrangement</h2>
-
-
 
 <h2 id="brunch">Brunch</h2>
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for en lækker brunch. 
