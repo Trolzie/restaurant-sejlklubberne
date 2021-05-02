@@ -378,31 +378,45 @@ Vaniljeparfait med knas 35,-
 **Drikkevarer** 
 
 Kaffe på friskristede bønner i stempelkande og te kop/kande 30,-/95,-
+
 Udvalg af øl fra 50,-
+
 Hvidvin og rosé glas/flaske fra 75,-/395,-
+
 Rødvin glas/flaske fra 85,-/425,-
+
 Bobler rosé glas/flaske fra 95,-/650,-
+
 Udvalg af øl fra fad fra 50,-
+
 Sodavand 35,-
+
 Vand med og uden brus 10,-
+
 Friskpresset juice 45,-
+
 Spiritus standard 3cl. 45,-
 
-Lokaleoversigt
+**Lokaleoversigt**
+
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres specielle dag. Fælles for dem alle er den flotte havudsigt. 
 
 Billede af alle lokalerne
 
 Lokale Nord og Øst har panoramaudsigt ud over smukke Øresund. Her er der plads til 120 siddende gæster og der er udgang til egen terrasse. 
+
 Lokale Nord har panoramaudsigt ud over smukke Øresund og der er plads til 30 siddende gæster.
+
 Lokale Øst har panoramaudsigt ud over smukke Øresund, udgang til egen terrasse og plads til 80 siddende gæster.
 
 Lokale Syd – Sejklubbernes gamle lokaler
 Lokale Syd et og to har udsigt til både Øresund og havnen. Her er der plads til 80 siddende gæster og udgang til den fælles terrasse. 
+
 Lokale Syd et har udsigt til Øresund og havnen. Her er der plads til 30 siddende gæster og udgang til den fælles terrasse.
+
 Lokale Syd to har udsigt til Øresund og her er der plads til 50 siddende gæster. 
 
-Nb: På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
+**Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
 Lejen er som følgende og pålægges den samlede pris
 Nord og Øst: 3.000 kr.
 Nord: 1.000 kr.
