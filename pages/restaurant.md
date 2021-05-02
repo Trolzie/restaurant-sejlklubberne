@@ -11,12 +11,10 @@ eleventyNavigation:
   key: Restaurant
   order: 4
 ---
-
 <div class="page-links">
   <ul>
-    <li><a href="#frokost-kort">Frokost Kort</a></li>
-    <li><a href="#frokost-retter">Frokost Retter</a></li>
-    <li><a href="#aften-kort">Aften Kort</a></li>
+    <li><a href="#frokost-kort">Frokost kort</a></li>
+    <li><a href="#aften-kort">Aften kort</a></li>
     <li><a href="#all-day">All Day Dinning Snack Kort</a></li>
   </ul>
 </div>
@@ -31,7 +29,6 @@ Vi glæder os til at byde jer velkommen.
 
 Restauranten har åbent for frokost fra kl. 12:00 – 15:00 og aftenservering fra kl. 17:00 – 21:00
 
-
 <a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
 
 ![](/static/img/restaurant.jpeg)
@@ -40,174 +37,111 @@ Restauranten har åbent for frokost fra kl. 12:00 – 15:00 og aftenservering fr
 
 <h2 id="frokost-kort">Frokost Kort</h2>
 
-Serveres fra kl. xx-xx
-Smørrebrød
-Køkkenchefens 2 gode håndmadder
-Spørg tjeneren
-Roastbeef
+**Smørrebrød**
 
-Hjemmebagt rugbrød med roastbeef, sprøde løg, pickles og peberrod
+Gammeldags modnede senneps sild med smilende æg 75,-
 
-Hønsesalat
-Ristet surdejsbrød med cremet hønsesalat, syltede asparges, svampe og karse
+Stegt sild i lage med rå æble og dild 75,-
 
-Kartoffel
-Hjemmebagt rugbrød med kartoffel, rygeost sprøde løg og kul
+Rimmet laks med rygeoste creme og crudité af radiser 75,-
 
-<h2 id="frokost-retter">Frokost Retter</h2>
+Hønsesalat med hvide asparges, bacon og tomat 85,-
 
-Rørt tatar
-Rørt tatar af okse med sprøde salater og aromatiske krydderurter
+Roastbeef med remoulade, stegte løg og syltede agurker 85,-
 
-Christiansøsild
-Den krydrerede sild fra Christiansø med kapers, dild og cremefraiche
+**Frokostretter**
 
-Røget laks
-Tynde skiver af færøsk laks med sort peber og citron serveret med?
+Salat med rimmet laks
+æg og friske urter 155,-
 
-Fiskefrikadeller
-2 luftige fiskefrikadeller med tatar sauce og citron
+Charcuterie
+sortfod skinke, coppa, peber pølse og behørig garniture 140,-
 
-fritte xxx kr
-Søkogte ”pil selv rejer”
+Dåser fra Fangst – hør tjener for udvalg
+mayonnaise, citron og tapanade 110,-
 
-En skålfuld søkogte rejer med mayonnaise og grillet brød
+Okse tatar
+løg mayonnaise, syltet løg og sprød kartoffel 125,-
 
-Dagens simreret
-En gryde med en mættende ret som varierer efter vej og vild (det ordsprog kender jeg ikke? Er det vejr og vildt?)(ogkokkens humør)
+Tuntatar
+bagte tomater og tomat vinaigrette 150,-
+Tilføj 10 gr. Baeri caviar 150,-
 
-Fish N Chips
-All time klassiker friteret kuller med pommes fritter og tatar sauce
+Dagens simreret efter kokkens lyst og iver
 
-Skovser burger
-Kartoffel bun med 160 g okse, cheddar, tomat og sprød salat. Serveres med pommes frites
+\-spørg venligst jeres tjeneren omkring dette 150,- 
+Dessert
 
-Burrata
-Salat af solmodne tomater med burrata og knas
+Petit fours 15,-
 
-Salat bowl
-Sprøde og aromatiske salater og krydderurter serveret med vinaigrette, rå grønsager og korn
+Dagens kage 55,-
 
-Røget laks xx kr
-kylling xx kr
+Bagte rabarber
+rabarber mousse, vaniljeis og sprød crumble 75,-
 
-Frokost kort
-Desserter
-Sorbeter og iscremer
+Chokolade entremet
+cremeux, brændt hvid chokolade og chokoladeis 95,-
 
-Udvalg af iscremer og sorbeter spørg tjener om udvalg xx kr. på kugle
+**Aftenkort**
 
-Varm chokoladekage
+**Forretter**
 
-(Andre forslag kan være: Gateau Marcel, varm chokoladedrøm eller syndig chokoladedrøm)
+Salat med rimmet laks
+æg og friske urter 155,-
 
-Salt caramel creme og vanilje iscreme
-Citron/honning mousse
-Bagte rabarber, sorbet og citronverbena
+Dåser fra Fangst – hør tjener for udvalg
+mayonnaise, citron og tapanade 110,-
 
-Tavle
-Dagens fisk
+Charcuterie
+sortfod skinke, coppa, peber pølse og behørig garniture 140,-
 
-Asparges – stenbidder rogn og alt det andet sæsonagtige
+Oksetatar
+løg mayonnaise, syltet løg og sprød kartoffel 125,-
 
-Jordbær osv….
+Tuntatar
+bagte tomater og tomat vinagrette 150,-
+Tilføj 10 gr. Baeri caviar 150,-
 
-![](/static/img/logo_wave_blue-0.1x.jpg)
+Råstegt hummer
+hvide asparges og sauce mousseline 280,-
 
-<h2 id="aften-kort">Aften Kort</h2>
+Kalvebrissel
+ærter francaise med tørsaltet bacon, hjerte salat og stegesky 165,-
 
-Serveres fra kl xx-xx
-Snacks og små retter
-Saltristede nødder
-Charcuteri fra Rævhede Naturprodukter
-Udvalg af lufttørret pølse, skinke og oliven med surdejsbrød
-”Fisk på dåse” af mærket FANGST
-Serveres med grillet surdejsbrød, citron og en lækker salat
-(Spørg tjeneren om dagens udvalg)
-Forretter
-Søkogte ”pil selv rejer”
+**Hovedretter**
 
-En skålfuld søkogte rejer med mayonnaise og grillet brød
+Pocheret helleflynder
+hvide asparges, spinat og muslinge sauce 195,-
+Tilføj 10 gr. Baeri caviar 150,-
 
-Rørt tatar
+Stegt oksemørbrad
+grønne asparges og tæt sauce bordelaise med røget marv 260,-
 
-Rørt tatar af okse med sprøde salater og aromatiske urter
+Dagens simreret efter kokkens lyst og iver
 
-Stegte kammuslinger
-Med grillet sommerkål og trøffelvinaigrette
+\-spørg venligst jeres tjeneren omkring dette 150,-
 
-Burrata
+**Dessert**
 
-Salat af solmodne tomater med burrata og knas
+Petit four
 
-Hovedretter
-Dagens simreret
+Bagte rabarber
+rabarber mousse, vaniljeis og sprød crumble 75,-
 
-En gryde med en mættende ret som varierer efter vej og vild (og kokkens humør)
+Chokolade entremet
+cremeux, brændt hvid chokolade og chokoladeis og 95,-
 
-Stegt Søtunge
-
-Med nye kartofler brunet smør med kapers og salat med fløde dressing
-
-Tærte med sommersvampe
-
-Sprød tærte med cremede svampe og salat af grillet sommerkål
-
-Grydestegt Poussin
-med frikasse af nye grønsager og ramsløg
-Okse tournedos 220 g
-
-med ristede grønsager estragon smør og tæt rødvinssauce
-
-Grillet Hummer
-
-Hel grillet hummerhale med frikasse af grønne asparges og ærter i cremet hummersauce
-
-Fish n ´chips
-
-All time klassiker friteret kuller med pommes fritter og tatar sauce
-
-Skovser burger
-
-Kartoffel bun med 160 g okse, cheddar, tomat og sprød salat serveret med pommes frites
-
-Desserter
-Sorbet og iscreme
-
-Udvalg af iscremer og sorbeter spørg tjener om udvalg
-
-xx kr. på kugle
-Varm chokoladekage
-
-(Andre forslag kan være: Gateau Marcel, varm chokoladedrøm eller syndig chokoladedrøm)
-
-Salt caramel creme og vanilje iscreme
-Citron-honning mousse
-Bagte rabarber med sorbet og citronverbena
-
-Tavle
-Dagens fiske ret
-Dagens simreret
-
-Asparges – stenbidder rogn og alt det andet sæsonagtige
-
-Jordbær osv….
-
-Skaldyrs fad i weekenden og på kedelige dage med regn boullabaisse
-
-![](/static/img/logo_wave_blue-0.1x.jpg)
-
-<h2 id="all-day">All Day Dinning Snack Kort</h2>
+**All day dinning snack kort**
 
 Saltristede nødder
+
 Charcuteri fra Rævhede Naturprodukter
 Udvalg af lufttørret pølser, skinke og oliven med surdejsbrød
 
 ”Fisk på dåse” af mærket FANGST
-
 Serveres med grillet surdejsbrød, citron og en lækker salat
-
 (Spørg tjeneren om dagens udvalg)
+
 Dagens udvalg af kager
 Tjek kagemontre i baren eller spørg tjeneren
 
