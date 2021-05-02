@@ -21,7 +21,7 @@ eleventyNavigation:
 
 I de smukke maritime omgivelser med udsigt over Øresund er der plads til hverdagsmad, romantiske middage, møder og festlige fejringer for hele familien. 
 
-Vi gør os altid umage og vi går aldrig på kompromis med hverken smag eller samvittighed. Vores råvarer og leverandører er håndplukket, og vi går efter sæsonens bedste. 
+Vi gør os altid umage og vi går aldrig på kompromis med hverken smag eller samvittighed. Vores råvarer og leverandører er håndplukkede, og vi går efter sæsonens bedste råvarer. 
 
 Den nye forpagter og kok Peter Mose*(Ensemble, Luns, Gourmandiet m.fl.) er inspireret af det franske køkken og mestrer gastronomi på højt stjerneniveau. Han sætter dog ligeså stor pris på det rustikke og enkle, hvilket giver sig til udtryk i menukortet. 
 
