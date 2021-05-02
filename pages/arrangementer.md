@@ -37,7 +37,7 @@ Vi er behjælpelige med alle forberedelserne, i alle festens faser - naturligvis
 
 Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak. 
 
-**Nedenstående er forslag til et bryllup**
+**Bryllupspakke**
 
 Bryllups arrangement fra 18:00 til 02:00
 
