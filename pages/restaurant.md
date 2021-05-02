@@ -21,7 +21,16 @@ eleventyNavigation:
   </ul>
 </div>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I de smukke maritime omgivelser med udsigt over Øresund er der plads til hverdagsmad, romantiske middage, møder og festlige fejringer for hele familien. 
+
+Vi gør os altid umage og vi går aldrig på kompromis med hverken smag eller samvittighed. Vores råvarer og leverandører er håndplukket, og vi går efter sæsonens bedste. 
+
+Den nye forpagter og kok Peter Mose*(Ensemble, Luns, Gourmandiet m.fl.) er inspireret af det franske køkken og mestrer gastronomi på højt stjerneniveau. Han sætter dog ligeså stor pris på det rustikke og enkle, hvilket giver sig til udtryk i menukortet. 
+
+Vi glæder os til at byde jer velkommen.
+
+Restauranten har åbent for frokost fra kl. 12:00 – 15:00 og aftenservering fra kl. 17:00 – 21:00
+
 
 <a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
 
