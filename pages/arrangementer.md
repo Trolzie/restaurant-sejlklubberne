@@ -13,7 +13,7 @@ eleventyNavigation:
 ---
 <div class="page-links">
   <ul>
-    <li><a href="#bryllup">Bryllyp</a></li>
+    <li><a href="#bryllup">Bryllup</a></li>
     <li><a href="#konfirmation">Konfirmation</a></li>
     <li><a href="#konference">Møde/Konference</a></li>
     <li><a href="#arrangement">Frokost/Aften Arrangement</a></li>
