@@ -35,7 +35,7 @@ I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte
 
 Vi er behjælpelige med alle forberedelserne, i alle festens faser - naturligvis også individuelle ønsker. Det er meget vigtigt for os, at brudeparret og gæsterne kan læne sig tilbage, nyde rammerne, maden, vinen og servicen – så klarer vi resten.
 
-Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på [mail](kontakt@restaurantsejlklubberne.dk) eller telefon 39 46 30 46 til en uforpligtende snak. 
+Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak. 
 
 **Nedenstående er forslag til et bryllup**
 
@@ -87,7 +87,7 @@ Syd 2: 1.500 kr.
 ![](/static/img/konfirmation.jpeg)
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres barns store dag. 
 
-De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Kontakt os på [mail](kontakt@restaurantsejlklubberne.dk) eller telefon 39 46 30 46 og vi får en uforpligtende snak om den store dage.
+De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 og vi får en uforpligtende snak om den store dage.
 
 **Frokostarrangement 12:00-16:00**
 
@@ -297,3 +297,116 @@ Syd 1: 1.000 kr.
 Syd 2: 1.500 kr.
 
 <h2 id="begravelse">Begravelse</h2>
+Et sidste farvel er altid svært. Hos Sejlklubbernes restaurant vil vi gøre vores til, at danne hyggelige rammer om jeres sidste farvel. I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi nedenstående.
+
+Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+
+Minimum 15 couverter
+
+**Begravelses pakke**
+
+Kaffe og te
+
+Vand med og uden brus
+
+Kage og kringle 
+
+4 styk fingersandwich
+
+Frugt
+
+225,- kr. pr person
+
+**Nedenstående er priser på ekstra tilvalg**
+
+Smørrebrød uspecificeret 95,-
+
+4 styk fingersandwich 75,-
+
+Panini af surdej med forskelligt fyld 95,-
+
+Udvalg af charcuteri og oste med diverse garniture og tapenade. 
+
+Serveret med surdejsbrød og smør 175,-
+
+**Snacks og små herlige sager (min 5 styk per person)**
+
+Luftig urtecreme med rå grøntsager 25,-
+
+Sprøde rischips med sort sesammayonnaise 25,-
+
+Ristede blandede nødder med havsalt 35,-
+
+Rejesalat i sprød skal med dild 35,-
+
+Laksetatar på sprød rugbrødscrouton 40,-
+
+Sprød croquette med Karl Johan mayonnaise 40,-
+
+Sommersalat på sprød crouton 35,-
+
+Rørt tatar på rå radise 35,-
+
+Sprød fisk med ærtecreme 40,-
+
+Bagte rødbeder med kul & rygeost 35,-
+
+Svampetærte med urter 40,-
+
+Østers med dild og peberrodsfløde 50,-
+
+Friterede hele fjordrejer med spicy mayonnaise 40,- (efter sæson)
+
+Kartoffelblinis med Baerii caviar pris pr. 30 gr. 350,-
+
+Kartoffelblinis med stenbiderrogn (sæson dagspris)
+
+Comté med sylt og knas 45,-
+
+Fourme d’Ambert med sylt og knas 45,-
+
+Nøddekage med bærcreme 40,-
+
+Tæt chokoladecreme med saltkaramel 45,-
+
+Lemon pie med marengs 40,-
+
+Små fyldte chokolader 25,-
+
+Vaniljeparfait med knas 35,-
+
+**Drikkevarer** 
+
+Kaffe på friskristede bønner i stempelkande og te kop/kande 30,-/95,-
+Udvalg af øl fra 50,-
+Hvidvin og rosé glas/flaske fra 75,-/395,-
+Rødvin glas/flaske fra 85,-/425,-
+Bobler rosé glas/flaske fra 95,-/650,-
+Udvalg af øl fra fad fra 50,-
+Sodavand 35,-
+Vand med og uden brus 10,-
+Friskpresset juice 45,-
+Spiritus standard 3cl. 45,-
+
+Lokaleoversigt
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres specielle dag. Fælles for dem alle er den flotte havudsigt. 
+
+Billede af alle lokalerne
+
+Lokale Nord og Øst har panoramaudsigt ud over smukke Øresund. Her er der plads til 120 siddende gæster og der er udgang til egen terrasse. 
+Lokale Nord har panoramaudsigt ud over smukke Øresund og der er plads til 30 siddende gæster.
+Lokale Øst har panoramaudsigt ud over smukke Øresund, udgang til egen terrasse og plads til 80 siddende gæster.
+
+Lokale Syd – Sejklubbernes gamle lokaler
+Lokale Syd et og to har udsigt til både Øresund og havnen. Her er der plads til 80 siddende gæster og udgang til den fælles terrasse. 
+Lokale Syd et har udsigt til Øresund og havnen. Her er der plads til 30 siddende gæster og udgang til den fælles terrasse.
+Lokale Syd to har udsigt til Øresund og her er der plads til 50 siddende gæster. 
+
+Nb: På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
+Lejen er som følgende og pålægges den samlede pris
+Nord og Øst: 3.000 kr.
+Nord: 1.000 kr.
+Øst: 2.000 kr.
+Syd 1 og 2: 2.500 kr.
+Syd 1: 1.000 kr.
+Syd 2: 1.500 kr.
