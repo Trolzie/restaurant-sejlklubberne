@@ -37,7 +37,7 @@ Vi er behjælpelige med alle forberedelserne, i alle festens faser - naturligvis
 
 Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
-### **Bryllups pakke**
+### Bryllups pakke
 
 Bryllups arrangement fra 18:00 til 02:00
 
@@ -58,7 +58,7 @@ Menu 1: 1795,- / Menu 2: 1595,- **Link til menu 1 og 2**
 
 Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 
-#### **Lokaleoversigt**
+#### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
@@ -78,7 +78,7 @@ I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte
 
 De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak om den store dage.
 
-### **Frokostarrangement 12-16**
+### Frokostarrangement 12-16
 
 Velkomst (Snacks kan tilkøbes.)
 
@@ -92,7 +92,7 @@ Kaffe og te
 
 Menu 1: 995,- / Menu 2: 895,- kr. pr person 
 
-### **Aftenarrangement 18-22**
+### Aftenarrangement 18-22
 
 Velkomst og snacks
 
@@ -113,7 +113,7 @@ Minimum 15 couverter.
 
 **Konceptet og middagen er Sharing eller Family Style** Det betyder, at der bliver serveret flere retter på mindre fade. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere. Menuen vil være tilpasset sæsonen, og der kan forekomme ændringer. 
 
-#### **Menu 1**
+#### Menu 1
 
 Hummer
 Vild brøndkarse - blomkål - sauce
@@ -139,7 +139,7 @@ Stikkelsbær - sherry - sprødt kyllingeskind
 Mandelkage
 Honning mousse - syltede rabarber - brændt hvid chokolade
 
-#### **Menu 2**
+#### Menu 2
 
 Flammegrillet laks
 Soya glace - chili mayonnaise – radise
@@ -162,7 +162,7 @@ Syltede løg – sennep
 Lemon pie
 Hindbær - brændt hvid chokolade - sorbet
 
-#### **Lokaleoversigt**
+#### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
@@ -181,19 +181,19 @@ I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte
 
 Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
-### **Konferencepakke 1**
+### Konferencepakke 1
 
 Nedenstående er et eksempel på morgen halvdagsmøde i tidsrummet fra kl. 6:30-16 
 
 (max 4 timer eller efter skriftlig aftale)
 
-#### **Let morgenmad**
+#### Let morgenmad
 
 Kaffe, te og juice
 Yoghurt med granola og kompot
 Surdejsbrød og rugbrød med saltet smør, ost og marmelade
 
-#### **Formiddagspause**
+#### Formiddagspause
 
 Kaffe, te, friskpresset juice, salt og sødt fra køkkenet
 
@@ -208,31 +208,31 @@ Kaffe, te og hjemmebag fra egen konditor
 
 Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke, penne og vand med og uden brus. Andet udstyr kan arrangeres efter ønske og aftale, og afregnes udover den faste pris.
 
-### **Konferencepakke 2**
+### Konferencepakke 2
 
 Nedenstående er et eksempel på heldagsmøde i tidsrummet fra kl. 08-22
 
-#### **Let morgenmad**
+#### Let morgenmad
 
 Kaffe, te og juice
 Yoghurt med granola og kompot
 Surdejsbrød og rugbrød med saltet smør, ost og marmelade
 
-#### **Formiddagspause**
+#### Formiddagspause
 
 Kaffe, te, friskpresset juice, salt og sødt fra køkkenet
 
-#### **2-retters frokostmenu** 
+#### 2-retters frokostmenu
 
 efter køkkenchefens valg
 
 Drikkevarer efter forbrug
 
-#### **Eftermiddagspause**
+#### Eftermiddagspause
 
 Kaffe, te og hjemmebag fra egen konditor
 
-#### **Middag**
+#### Middag
 
 Velkomst
 
@@ -248,7 +248,7 @@ Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke,
 
 Vores middag serveres som Sharing Style. Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
 
-#### **Lokaleoversigt**
+#### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
@@ -270,12 +270,12 @@ Er du interesseret på at høre mere så kontakt os på **[mail](kontakt@restaur
 
 Vores brunch serveres som Sharing Style. Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
 
-### **Brunch Serveres fra kl. 10:30-15**.
+### Brunch serveres fra kl. 10:30-15.
 
 Max 3 timer eller efter skriftlig aftale
 Minimum 20 couverter.
 
-**Velkomst**
+#### **Velkomst**
 
 Brunch serveret ved bordene à flere omgange
 
@@ -336,7 +336,7 @@ Bearii kaviar 30 gr.
 Smørristede kartoffelblinis, creme fraiche og rødløg
 Pris pr. dåse à 30 gr
 
-#### **Lokaleoversigt**
+#### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
@@ -357,7 +357,7 @@ Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.d
 
 Minimum 15 couverter
 
-### **Begravelses pakke**
+### Begravelses pakke
 
 Kaffe og te
 
@@ -371,7 +371,7 @@ Frugt
 
 225,- kr. pr person
 
-#### **Nedenstående er priser på ekstra tilvalg**
+#### Nedenstående er priser på ekstra tilvalg
 
 Smørrebrød uspecificeret 95,-
 
@@ -383,7 +383,7 @@ Udvalg af charcuteri og oste med diverse garniture og tapenade.
 
 Serveret med surdejsbrød og smør 175,-
 
-#### **Snacks og små herlige sager (min 5 styk per person)**
+#### Snacks og små herlige sager (min 5 styk per person)
 
 Luftig urtecreme med rå grøntsager 25,-
 
@@ -429,7 +429,7 @@ Små fyldte chokolader 25,-
 
 Vaniljeparfait med knas 35,-
 
-#### **Lokaleoversigt**
+#### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
