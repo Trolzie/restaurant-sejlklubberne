@@ -69,7 +69,7 @@ Tilføj 10 gr. Baeri caviar 150,-
 
 Dagens simreret efter kokkens lyst og iver
 
-\-spørg venligst jeres tjeneren omkring dette 150,- 
+\-spørg venligst jeres tjener omkring dette 150,- 
 Dessert
 
 Petit fours 15,-
@@ -119,7 +119,7 @@ grønne asparges og tæt sauce bordelaise med røget marv 260,-
 
 Dagens simreret efter kokkens lyst og iver
 
-\-spørg venligst jeres tjeneren omkring dette 150,-
+\-spørg venligst jeres tjener omkring dette 150,-
 
 **Dessert**
 
@@ -130,19 +130,5 @@ rabarber mousse, vaniljeis og sprød crumble 75,-
 
 Chokolade entremet
 cremeux, brændt hvid chokolade og chokoladeis og 95,-
-
-**All day dinning snack kort**
-
-Saltristede nødder
-
-Charcuteri fra Rævhede Naturprodukter
-Udvalg af lufttørret pølser, skinke og oliven med surdejsbrød
-
-”Fisk på dåse” af mærket FANGST
-Serveres med grillet surdejsbrød, citron og en lækker salat
-(Spørg tjeneren om dagens udvalg)
-
-Dagens udvalg af kager
-Tjek kagemontre i baren eller spørg tjeneren
 
 <a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
