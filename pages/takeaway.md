@@ -13,9 +13,9 @@ eleventyNavigation:
 ---
 **Åbningstider**
 
-Mandag - lørdag fra kl. 10 - 19
+Mandag - lørdag fra kl. 10-19
 
-Lørdag - søndag fra kl. 9 -19
+Lørdag - søndag fra kl. 9-19
 
 <a class="call-to-action" target="_blank" href="https://login.onlinepos.dk/taw_v3/13687/?page=menukort&pgid=1576165">Bestil Takeaway</a>
 
