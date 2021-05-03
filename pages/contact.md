@@ -11,9 +11,9 @@ eleventyNavigation:
   key: Kontakt
   order: 6
 ---
-<p>Takeaway er åbent man-søn fra kl. 10-19</p>
+<p>Takeaway er åbent man-fre fra kl. 10-19 og lør-søn fra kl. 9-19</p>
 
-Restauranten har åbent for frokost fra kl. 12 -
+Restauranten har åbent man-søn for frokost fra kl. 12-15 og aftenservering fra kl. 17-21
 
 <p><a href="tel:39643046">39 64 30 46</a></p>
 
