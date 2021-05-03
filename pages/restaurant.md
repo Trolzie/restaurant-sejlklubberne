@@ -34,7 +34,7 @@ Vi glæder os til at byde jer velkommen.
 
 ![](/static/img/logo_wave_blue-0.1x.jpg)
 
-<h2 id="frokost-kort">Frokost Kort</h2>
+<h2 id="frokost-kort">Frokost kort</h2>
 
 #### **Smørrebrød**
 
