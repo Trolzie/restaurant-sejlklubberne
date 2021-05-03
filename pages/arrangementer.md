@@ -246,19 +246,21 @@ Kaffe, te og juice
 Yoghurt med granola og kompot
 Surdejsbrød og rugbrød med saltet smør, ost og marmelade
 
-**Formiddagspause**
+#### **Formiddagspause**
 
 Kaffe, te, friskpresset juice, salt og sødt fra køkkenet
 
-**2-retters frokostmenu** efter køkkenchefens valg
+#### **2-retters frokostmenu** 
+
+efter køkkenchefens valg
 
 Drikkevarer efter forbrug
 
-**Eftermiddagspause**
+#### **Eftermiddagspause**
 
 Kaffe, te og hjemmebag fra egen konditor
 
-**Middag**
+#### **Middag**
 
 Velkomst
 
@@ -274,7 +276,8 @@ Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke,
 
 Vores middag serveres som Sharing Style. Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
 
-**Lokaleoversigt**
+### **Lokaleoversigt**
+
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres næste møde eller konference. Fælles for dem alle er den flotte havudsigt. 
 
 Lokale Nord og Øst har panoramaudsigt over smukke Øresund. Her er der plads til 120 siddende gæster og udgang til egen terrasse. 
@@ -306,11 +309,12 @@ Syd 2: 1.500 kr.
 <h2 id="brunch">Brunch</h2>
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for en lækker brunch. 
 
-Er du interesseret på at høre mere så kontakt os på [mail](kontakt@restaurantsejlklubberne.dk) eller telefon 39 46 30 46 til en uforpligtende snak.
+Er du interesseret på at høre mere så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
 Vores brunch serveres som Sharing Style. Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
 
-**Brunch Serveres fra kl. 10:30 - 15:00.**\
+### **Brunch Serveres fra kl. 10:30-15**.
+
 Max 3 timer eller efter skriftlig aftale
 Minimum 20 couverter.
 
