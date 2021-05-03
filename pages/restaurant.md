@@ -15,7 +15,6 @@ eleventyNavigation:
   <ul>
     <li><a href="#frokost-kort">Frokost kort</a></li>
     <li><a href="#aften-kort">Aften kort</a></li>
-    <li><a href="#all-day">All Day Dinning Snack Kort</a></li>
   </ul>
 </div>
 
