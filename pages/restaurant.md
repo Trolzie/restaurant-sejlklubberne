@@ -69,7 +69,8 @@ Tilføj 10 gr. Baeri caviar 150,-
 Dagens simreret efter kokkens lyst og iver
 
 \-spørg venligst jeres tjener omkring dette 150,- 
-Dessert
+
+#### Dessert
 
 Petit fours 15,-
 
@@ -81,7 +82,7 @@ rabarber mousse, vaniljeis og sprød crumble 75,-
 Chokolade entremet
 cremeux, brændt hvid chokolade og chokoladeis 95,-
 
-#### **Aftenkort**
+<h2 id="aften-kort">Aften kort</h2>
 
 #### **Forretter**
 
