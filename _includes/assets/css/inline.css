@@ -80,7 +80,6 @@ main {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 4rem 1rem;
-	text-align: center;
 	font-weight: 200;
 }
 
@@ -95,10 +94,6 @@ main.main-splash {
 main :first-child,
 main > article :first-child {
 	margin-top: 0;
-}
-
-main .restaurant {
-	text-align: center;
 }
 
 pre {
