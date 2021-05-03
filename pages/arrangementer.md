@@ -379,10 +379,10 @@ Bearii kaviar 30 gr.
 Smørristede kartoffelblinis, creme fraiche og rødløg
 Pris pr. dåse à 30 gr
 
-**Lokaleoversigt**
+### **Lokaleoversigt**
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres fest. Fælles for dem alle er den flotte havudsigt. 
-Billede af alle lokalerne
+
 
 Lokale Nord og Øst har panoramaudsigt over smukke Øresund. Her er der plads til 120 siddende gæster og udgang til egen terrasse. 
 
@@ -415,7 +415,7 @@ Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.d
 
 Minimum 15 couverter
 
-**Begravelses pakke**
+### **Begravelses pakke**
 
 Kaffe og te
 
@@ -429,7 +429,7 @@ Frugt
 
 225,- kr. pr person
 
-**Nedenstående er priser på ekstra tilvalg**
+#### **Nedenstående er priser på ekstra tilvalg**
 
 Smørrebrød uspecificeret 95,-
 
@@ -441,7 +441,7 @@ Udvalg af charcuteri og oste med diverse garniture og tapenade.
 
 Serveret med surdejsbrød og smør 175,-
 
-**Snacks og små herlige sager (min 5 styk per person)**
+#### **Snacks og små herlige sager (min 5 styk per person)**
 
 Luftig urtecreme med rå grøntsager 25,-
 
@@ -487,29 +487,7 @@ Små fyldte chokolader 25,-
 
 Vaniljeparfait med knas 35,-
 
-**Drikkevarer** 
-
-Kaffe på friskristede bønner i stempelkande og te kop/kande 30,-/95,-
-
-Udvalg af øl fra 50,-
-
-Hvidvin og rosé glas/flaske fra 75,-/395,-
-
-Rødvin glas/flaske fra 85,-/425,-
-
-Bobler rosé glas/flaske fra 95,-/650,-
-
-Udvalg af øl fra fad fra 50,-
-
-Sodavand 35,-
-
-Vand med og uden brus 10,-
-
-Friskpresset juice 45,-
-
-Spiritus standard 3cl. 45,-
-
-**Lokaleoversigt**
+### **Lokaleoversigt**
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres specielle dag. Fælles for dem alle er den flotte havudsigt. 
 
