@@ -35,9 +35,9 @@ I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte
 
 Vi er behjælpelige med alle forberedelserne, i alle festens faser - naturligvis også individuelle ønsker. Det er meget vigtigt for os, at brudeparret og gæsterne kan læne sig tilbage, nyde rammerne, maden, vinen og servicen – så klarer vi resten.
 
-Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak. 
+Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
-**Bryllupspakke**
+### **Bryllups pakke**
 
 Bryllups arrangement fra 18:00 til 02:00
 
