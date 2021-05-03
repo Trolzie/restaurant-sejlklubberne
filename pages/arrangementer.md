@@ -58,7 +58,7 @@ Menu 1: 1795,- / Menu 2: 1595,- Link til menu 1 og 2
 
 Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 
-**Lokaleoversigt**
+### **Lokaleoversigt**
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. 
 
@@ -89,7 +89,7 @@ I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte
 
 De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak om den store dage.
 
-**Frokostarrangement 12:00-16:00**
+### **Frokostarrangement 12-16**
 
 Velkomst (Snacks kan tilkøbes.)
 
@@ -103,7 +103,7 @@ Kaffe og te
 
 Menu 1: 995,- / Menu 2: 895,- kr. pr person 
 
-**Aftenarrangement 18:00-22:00**
+### **Aftenarrangement 18-22**
 
 Velkomst og snacks
 
@@ -122,10 +122,9 @@ Menu 1: 1.295,- / Menu 2: 1.095,- kr. pr person
 Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 Minimum 15 couverter.
 
-**Konceptet og middagen er Sharing eller Family Style** 
-Det betyder, at der bliver serveret flere retter på mindre fade. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere. Menuen vil være tilpasset sæsonen, og der kan forekomme ændringer. 
+**Konceptet og middagen er Sharing eller Family Style** Det betyder, at der bliver serveret flere retter på mindre fade. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere. Menuen vil være tilpasset sæsonen, og der kan forekomme ændringer. 
 
-**Menu 1**
+#### **Menu 1**
 
 Hummer
 Vild brøndkarse - blomkål - sauce
@@ -151,7 +150,7 @@ Stikkelsbær - sherry - sprødt kyllingeskind
 Mandelkage
 Honning mousse - syltede rabarber - brændt hvid chokolade
 
-**Menu 2**
+#### **Menu 2**
 
 Flammegrillet laks
 Soya glace - chili mayonnaise – radise
@@ -174,7 +173,7 @@ Syltede løg – sennep
 Lemon pie
 Hindbær - brændt hvid chokolade - sorbet
 
-**Lokaleoversigt**
+### **Lokaleoversigt**
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres fest. Fælles for dem alle er den flotte havudsigt. 
 
@@ -210,19 +209,19 @@ I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte
 
 Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
-**Konferencepakke 1**
+### **Konferencepakke 1**
 
-Nedenstående er et eksempel på morgen halvdagsmøde i tidsrummet fra kl. 6:30 - 16:00 
+Nedenstående er et eksempel på morgen halvdagsmøde i tidsrummet fra kl. 6:30-16 
 
 (max 4 timer eller efter skriftlig aftale)
 
-**Let morgenmad**
+#### **Let morgenmad**
 
 Kaffe, te og juice
 Yoghurt med granola og kompot
 Surdejsbrød og rugbrød med saltet smør, ost og marmelade
 
-**Formiddagspause**
+#### **Formiddagspause**
 
 Kaffe, te, friskpresset juice, salt og sødt fra køkkenet
 
@@ -237,11 +236,11 @@ Kaffe, te og hjemmebag fra egen konditor
 
 Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke, penne og vand med og uden brus. Andet udstyr kan arrangeres efter ønske og aftale, og afregnes udover den faste pris.
 
-**Konferencepakke 2**
+### **Konferencepakke 2**
 
-Nedenstående er et eksempel på heldagsmøde i tidsrummet fra kl. 08:00 - 22:00
+Nedenstående er et eksempel på heldagsmøde i tidsrummet fra kl. 08-22
 
-**Let morgenmad**
+#### **Let morgenmad**
 
 Kaffe, te og juice
 Yoghurt med granola og kompot
