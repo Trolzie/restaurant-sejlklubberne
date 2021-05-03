@@ -54,7 +54,7 @@ Kaffe, te, sødt og en avec
 Åben bar med spiritus 
 yderligere timer kan tilkøbes 100,- pr person pr ekstra time
 
-Menu 1: 1795,- / Menu 2: 1595,- Link til menu 1 og 2
+Menu 1: 1795,- / Menu 2: 1595,- **Link til menu 1 og 2**
 
 Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 
@@ -62,7 +62,14 @@ Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, m
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
-
+**Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
+Lejen er som følgende og pålægges den samlede pris
+Nord og Øst: 3.000 kr.
+Nord: 1.000 kr.
+Øst: 2.000 kr.
+Syd 1 og 2: 2.500 kr.
+Syd 1: 1.000 kr.
+Syd 2: 1.500 kr.
 
 <h2 id="konfirmation">Konfirmation</h2>
 
@@ -155,28 +162,11 @@ Syltede løg – sennep
 Lemon pie
 Hindbær - brændt hvid chokolade - sorbet
 
-### **Lokaleoversigt**
+#### **Lokaleoversigt**
 
-Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres fest. Fælles for dem alle er den flotte havudsigt. 
-
-Billede af alle lokalerne
-
-Lokale Nord og Øst har panoramaudsigt over smukke Øresund. Her er der plads til 120 siddende gæster og udgang til egen terrasse. 
-
-Lokale Nord har panoramaudsigt over smukke Øresund, og der er plads til 30 siddende gæster.
-
-Lokale Øst har panoramaudsigt over smukke Øresund, udgang til egen terrasse og plads til 80 siddende gæster.
-
-Lokale Syd – Sejklubbernes gamle lokaler
-
-Lokale Syd et og to har udsigt til både Øresund og havnen. Her er der plads til 80 siddende gæster og udgang til den fælles terrasse. 
-
-Lokale Syd et har udsigt til Øresund og havnen. Her er der plads til 30 siddende gæster og udgang til den fælles terrasse.
-
-Lokale Syd to har udsigt til Øresund, og her er der plads til 50 siddende gæster. 
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
 **Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
-
 Lejen er som følgende og pålægges den samlede pris
 Nord og Øst: 3.000 kr.
 Nord: 1.000 kr.
@@ -258,26 +248,11 @@ Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke,
 
 Vores middag serveres som Sharing Style. Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
 
-### **Lokaleoversigt**
+#### **Lokaleoversigt**
 
-Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres næste møde eller konference. Fælles for dem alle er den flotte havudsigt. 
-
-Lokale Nord og Øst har panoramaudsigt over smukke Øresund. Her er der plads til 120 siddende gæster og udgang til egen terrasse. 
-
-Lokale Nord har panoramaudsigt over smukke Øresund, og der er plads til 30 siddende gæster.
-
-Lokale Øst har panoramaudsigt over smukke Øresund, udgang til egen terrasse og plads til 80 siddende gæster.
-
-Lokale Syd – Sejklubbernes gamle lokaler
-
-Lokale Syd et og to har udsigt til både Øresund og havnen. Her er der plads til 80 siddende gæster og udgang til den fælles terrasse. 
-
-Lokale Syd et har udsigt til Øresund og havnen. Her er der plads til 30 siddende gæster og udgang til den fælles terrasse.
-
-Lokale Syd to har udsigt til Øresund, og her er der plads til 50 siddende gæster. 
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
 **Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
-
 Lejen er som følgende og pålægges den samlede pris
 Nord og Øst: 3.000 kr.
 Nord: 1.000 kr.
@@ -361,26 +336,11 @@ Bearii kaviar 30 gr.
 Smørristede kartoffelblinis, creme fraiche og rødløg
 Pris pr. dåse à 30 gr
 
-### **Lokaleoversigt**
+#### **Lokaleoversigt**
 
-Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres fest. Fælles for dem alle er den flotte havudsigt. 
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
-
-Lokale Nord og Øst har panoramaudsigt over smukke Øresund. Her er der plads til 120 siddende gæster og udgang til egen terrasse. 
-
-Lokale Nord har panoramaudsigt over smukke Øresund, og der er plads til 30 siddende gæster.
-
-Lokale Øst har panoramaudsigt over smukke Øresund, udgang til egen terrasse og plads til 80 siddende gæster.
-
-Lokale Syd – Sejklubbernes gamle lokaler
-
-Lokale Syd et og to har udsigt til både Øresund og havnen. Her er der plads til 80 siddende gæster og udgang til den fælles terrasse. 
-
-Lokale Syd et har udsigt til Øresund og havnen. Her er der plads til 30 siddende gæster og udgang til den fælles terrasse.
-
-Lokale Syd to har udsigt til Øresund, og her er der plads til 50 siddende gæster. 
-
-Nb: På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
+**Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
 Lejen er som følgende og pålægges den samlede pris
 Nord og Øst: 3.000 kr.
 Nord: 1.000 kr.
@@ -469,24 +429,9 @@ Små fyldte chokolader 25,-
 
 Vaniljeparfait med knas 35,-
 
-### **Lokaleoversigt**
+#### **Lokaleoversigt**
 
-Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres specielle dag. Fælles for dem alle er den flotte havudsigt. 
-
-Billede af alle lokalerne
-
-Lokale Nord og Øst har panoramaudsigt ud over smukke Øresund. Her er der plads til 120 siddende gæster og der er udgang til egen terrasse. 
-
-Lokale Nord har panoramaudsigt ud over smukke Øresund og der er plads til 30 siddende gæster.
-
-Lokale Øst har panoramaudsigt ud over smukke Øresund, udgang til egen terrasse og plads til 80 siddende gæster.
-
-Lokale Syd – Sejklubbernes gamle lokaler
-Lokale Syd et og to har udsigt til både Øresund og havnen. Her er der plads til 80 siddende gæster og udgang til den fælles terrasse. 
-
-Lokale Syd et har udsigt til Øresund og havnen. Her er der plads til 30 siddende gæster og udgang til den fælles terrasse.
-
-Lokale Syd to har udsigt til Øresund og her er der plads til 50 siddende gæster. 
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
 **Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
 Lejen er som følgende og pålægges den samlede pris
