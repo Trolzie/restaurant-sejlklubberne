@@ -16,7 +16,7 @@ eleventyNavigation:
     <li><a href="#bryllup">Bryllup</a></li>
     <li><a href="#konfirmation">Konfirmation</a></li>
     <li><a href="#konference">Møde/Konference</a></li>
-    <li><a href="#arrangement">Frokost/Aften Arrangement</a></li>
+    <li><a href="#arrangement">Frokost/Aften arrangement</a></li>
     <li><a href="#brunch">Brunch</a></li>
     <li><a href="#begravelse">Begravelse</a></li>
   </ul>
