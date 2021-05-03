@@ -26,7 +26,7 @@ Forpagter Peter Mose bor på og driver Trekroner Fort og sejler hver dag, til og
 
 **Billeder af alle logoer – link til dem alle – dvs. man dropper længere ned på siden hvor der står om det pågældende mærke**
 
-#### DFD UPCY – genanvendelige tekstiler
+#### [DFD UPCY – genanvendelige tekstiler](https://www.dfd.dk/dfd-upcy)
 
 Vi har valgt at få leveret tekstiler fra konceptet DFD upcy hvor kundernes kasserede kvalitetstekstiler genanvendes og gives nyt liv. 
 
@@ -34,23 +34,23 @@ Vi har valgt at få leveret tekstiler fra konceptet DFD upcy hvor kundernes kass
 
 Alle tekstilerne i Sejlklubbernes restaurant er fra DFD upcy og vi sætter en ære i at gøre op med brug og smid væk-kulturen. For eksempel har alle kokkeskjorterne en historie og forklæderne kan være lavet af flere forskellige stoffer, hvilket blot giver charme og karakter. Læs mere om DFD upcy her
 
-#### FANGST ”fisk på dåse”
+#### [FANGST ”fisk på dåse”](https://fangst.com/)
 
 At en delikatesse som fisk og skaldyr på dåse er forbeholdt tapas i udlandet ønsker vi at gøre op med. De danske farvande rummer et spisekammer fyldt med noget af det allerbedste fisk. Derfor har vi valgt at lave et samarbejde med det dansk produceret mærket FANGST. 
 
 Du kan købe deres ”fiske på dåse” i vores takeaway SKOVS, samt smage på delikatessen i restauranten. Her serverer vi FANGST på grillet surdejsbrød, med citron og en lækker salat. (Link til menukort)
 
-#### Kafferiet – slow coffee
+#### [Kafferiet – slow coffee](https://kafferiet.dk/)
 
 KAFFERIET’s slogan er “Slow Coffee” og henviser til den tid det tager at dobbeltriste bønnerne. Blandingen Ruds Double Roast kaffe har været 40 år om at blive udviklet til det, den er i dag. Kaffen er sammensat af fem forskellige bønner med hver sin identitet og smag. En ristning der bringer smag af chokolade og mørkt sukker frem KAFFERIET. 
 
 Kaffen indeholder ikke for meget syre, som går dårligt i spænd med mælkens naturlige syreindhold. Ved tilføjelse af mælk bliver smagsoplevelsen derfor fyldig, rund og gennemtrængende med en udefinerlig og rar eftersmag. Kaffen kan nydes i vores restaurant, som to go i SKOVS takeaway eller som hele bønner til at tage med hjem. 
 
-#### Juice er fra Rosengården
+#### [Juice er fra Rosengården](https://www.rosengaard.dk/)
 
 Vi har valgt at samarbejde med den familieejede Skovser virksomhed Rosengaard, der blandt andet, producerer friskpresset juice. Juicen er 100% friskpresset, uden tilsat sukker eller e-nummererede kunststoffer. Med valget af 100 % friskpresset juice giver vi vores kunder en direkte kilde til vitaminer og mineraler. Juicen kan nydes i restauranten eller købes i SKOVS takeaway.
 
-#### Hansens is 
+#### [Hansens is ](https://hansens-is.dk/)
 
 Med sloganet ”smagen der kom tilbage” var valget meget indlysende, da vi ledte efter en is producent. Vi ønsker at værne om de gode råvarer og den gode smag i den mad vi tilbyder kunderne. Det sammen gør den familieejede Hansen is, der producerer is efter de gamle traditioner fra 1922 (Historien om Hansen)
 
