@@ -74,9 +74,7 @@ Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail]
 
 ![](/static/img/konfirmation.jpeg)
 
-I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres barns store dag. 
-
-De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. 
+I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres barns store dag. De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Nedenstående er vores forslag til en konfirmationspakke.
 
 ### Frokostarrangement 12-16
 
@@ -112,8 +110,6 @@ Menu 1: 1.295,- / Menu 2: 1.095,- kr. pr person
 
 Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 Minimum 15 couverter.
-
-
 
 #### Konceptet og middagen er Sharing eller Family Style
 
@@ -260,7 +256,7 @@ Kaffe og sødt
 
 Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke, penne og vand med og uden brus. Andet udstyr kan arrangeres efter ønske og aftale, og afregnes udover den faste pris.
 
-#### Vores middag serveres som Sharing Style. 
+#### Vores middag serveres som Sharing Style.
 
 Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
 
@@ -281,7 +277,7 @@ I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte
 
 #### \-
 
-#### Vores brunch serveres som Sharing Style. 
+#### Vores brunch serveres som Sharing Style.
 
 Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
 
@@ -336,8 +332,6 @@ Lun salat af hel hummerhale med hummerfløde og aromatiske salater 155,-
 
 Bearii kaviar 30 gr. - Smørristede kartoffelblinis, creme fraiche og rødløg. Pris pr. dåse à 30 gr
 
-
-
 <div class="text-left">
 
 #### Lokaleoversigt
@@ -351,8 +345,6 @@ Er du interesseret på at høre mere så kontakt os på **[mail](kontakt@restaur
 <h2 id="begravelse">Begravelse</h2>
 
 Et sidste farvel er altid svært. Hos Sejlklubbernes restaurant vil vi gøre vores til, at danne hyggelige rammer om jeres sidste farvel. I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi nedenstående.
-
-
 
 ### Begravelses pakke
 
