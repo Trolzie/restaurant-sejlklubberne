@@ -70,14 +70,16 @@ Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres 
 
 **Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
 
-* </div>
+</div>
 
 <h2 id="konfirmation">Konfirmation</h2>
 
 ![](/static/img/konfirmation.jpeg)
-I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres barns store dag. 
+<div class="text-left"> I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres barns store dag. 
 
-De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak om den store dage.
+De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak om den store dage. 
+
+</div>
 
 ### Frokostarrangement 12-16
 
@@ -109,12 +111,16 @@ Kaffe og te
 
 Menu 1: 1.295,- / Menu 2: 1.095,- kr. pr person
 
+<div class="text-left">
+
 Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 Minimum 15 couverter.
 
 #### Konceptet og middagen er Sharing eller Family Style
 
 Det betyder, at der bliver serveret flere retter på mindre fade. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere. Menuen vil være tilpasset sæsonen, og der kan forekomme ændringer. 
+
+</div>
 
 #### Menu 1
 
@@ -165,24 +171,22 @@ Syltede løg – sennep
 Lemon pie
 Hindbær - brændt hvid chokolade - sorbet
 
+<div class="text-left">
+
 #### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
 **Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
-Lejen er som følgende og pålægges den samlede pris
-Nord og Øst: 3.000 kr.
-Nord: 1.000 kr.
-Øst: 2.000 kr.
-Syd 1 og 2: 2.500 kr.
-Syd 1: 1.000 kr.
-Syd 2: 1.500 kr.
+</div>
 
 <h2 id="konference">Møde/Konference</h2>
 
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres næste møde eller konference. Udnyt de smukke omgivelser med en Walk and Talk langs havnepromenaden eller få frisk luft til hovedet, blot ved at åbne et vindue. 
 
 Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+
+
 
 ### Konferencepakke 1
 
