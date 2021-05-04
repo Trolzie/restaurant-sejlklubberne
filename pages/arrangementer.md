@@ -28,7 +28,7 @@ Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 4
 
 ![](/static/img/logo_wave_blue-0.1x.jpg)
 
-<h2 id="bryllup">Bryllup</h2>
+<h2 id="bryllup">Bryllup</h2> 
 
 ![](/static/img/bryllup.jpeg)
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres bryllup. 
@@ -106,7 +106,7 @@ Menu 1: 1.295,- / Menu 2: 1.095,- kr. pr person
 Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 Minimum 15 couverter.
 
-#### Konceptet og middagen er Sharing eller Family Style 
+#### Konceptet og middagen er Sharing eller Family Style
 
 Det betyder, at der bliver serveret flere retter på mindre fade. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere. Menuen vil være tilpasset sæsonen, og der kan forekomme ændringer. 
 
