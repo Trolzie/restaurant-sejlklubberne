@@ -14,7 +14,7 @@ eleventyNavigation:
 <div class="page-links">
   <ul>
     <li><a href="#frokost">Frokost</a></li>
-    <li><a href="#aften-kort">Aften kort</a></li>
+    <li><a href="#aften">Aften</a></li>
   </ul>
 </div>
 
