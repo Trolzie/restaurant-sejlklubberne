@@ -36,7 +36,7 @@ Vi glæder os til at byde jer velkommen.
 
 <h2 id="frokost-kort">Frokost kort</h2>
 
-#### **Smørrebrød**
+#### Smørrebrød
 
 Gammeldags modnede senneps sild med smilende æg 75,-
 
@@ -48,7 +48,7 @@ Hønsesalat med hvide asparges, bacon og tomat 85,-
 
 Roastbeef med remoulade, stegte løg og syltede agurker 85,-
 
-#### **Frokostretter**
+#### Frokostretter
 
 Salat med rimmet laks
 æg og friske urter 155,-
@@ -108,7 +108,7 @@ hvide asparges og sauce mousseline 280,-
 Kalvebrissel
 ærter francaise med tørsaltet bacon, hjerte salat og stegesky 165,-
 
-#### **Hovedretter**
+#### Hovedretter
 
 Pocheret helleflynder
 hvide asparges, spinat og muslinge sauce 195,-
@@ -121,7 +121,7 @@ Dagens simreret efter kokkens lyst og iver
 
 \-spørg venligst jeres tjener omkring dette 150,-
 
-#### **Dessert**
+#### Dessert
 
 Petit four
 
