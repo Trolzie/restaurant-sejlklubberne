@@ -19,6 +19,8 @@ Forpagter Peter Mose bor på og driver Trekroner Fort og sejler hver dag, til og
 
 ### Leverandører
 
+<div class="text-left"> 
+
 #### [DFD UPCY – genanvendelige tekstiler](https://www.dfd.dk/dfd-upcy)
 
 Vi har valgt at få leveret tekstiler fra konceptet DFD upcy hvor kundernes kasserede kvalitetstekstiler genanvendes og gives nyt liv. 
@@ -54,3 +56,5 @@ Det er alle gode traditioner vil ønsker at værne om og noget der falder i vore
 #### Økologisk mølle der maler melet - Kornbymølle
 
 #### Charcuteri er fra [Rævhede Naturprodukter](https://www.raevhedenaturprodukter.dk/)
+
+</div>
