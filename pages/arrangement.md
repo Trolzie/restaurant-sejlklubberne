@@ -43,34 +43,32 @@ Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail]
 
 ### Bryllups pakke
 
-<div class="text-left"> Bryllups arrangement fra 18:00 til 02:00
+Bryllups arrangement fra 18:00 til 02:00
 
-* Velkomst med aperitif og snacks
-* 3-retters menu (Sharing/Family Style)
-* Vinmenu
-* Der serveres vand med og uden brus under middagen
-* Kaffe, te, sødt og en avec
-* Åben bar med spiritus 
-  yderligere timer kan tilkøbes 100,- pr person pr ekstra time
+Velkomst med aperitif og snacks
 
-  </div>
+3-retters menu (Sharing/Family Style)
+
+Vinmenu
+
+Der serveres vand med og uden brus under middagen
+
+Kaffe, te, sødt og en avec
+
+Åben bar med spiritus 
+yderligere timer kan tilkøbes 100,- pr person pr ekstra time
 
 Menu 1: 1795,- / Menu 2: 1595,- **Link til menu 1 og 2**
 
 Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 
-#### Lokaleoversigt
+#### <div class="text-left">Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
 **Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
-Lejen er som følgende og pålægges den samlede pris
-Nord og Øst: 3.000 kr.
-Nord: 1.000 kr.
-Øst: 2.000 kr.
-Syd 1 og 2: 2.500 kr.
-Syd 1: 1.000 kr.
-Syd 2: 1.500 kr.
+
+* </div>
 
 <h2 id="konfirmation">Konfirmation</h2>
 
