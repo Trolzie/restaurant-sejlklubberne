@@ -11,11 +11,6 @@ eleventyNavigation:
 ---
 Hos Sejlklubbernes restaurant har besætningen indfundet deres pladser på kajen og vi er klar til at byde jer indenfor i de nyrenoverede lokaler. Med Kaptajn Peter Mose bag roret har restauranten stukket en ny retning og vi håber, at I vil tage godt imod os. 
 
-### Besætningen
-
-Kaptajn Peter Mose 
-Anden styrmand
-
 ### Bæredygtighed
 
 Hos Sejlklubbernes restaurant tænker vi bæredygtighed ind i alle restaurantens faser. Vi kan slet ikke lade være! Det er lige fra personalets uniformer, der er produceret af genanvendelige tekstiler til affaldssortering og valg af leverandører. 
@@ -23,8 +18,6 @@ Hos Sejlklubbernes restaurant tænker vi bæredygtighed ind i alle restaurantens
 Forpagter Peter Mose bor på og driver Trekroner Fort og sejler hver dag, til og fra fortet. Det giver ham vind i håret og mulighed for, at tænke over de aftryk vi tilfører miljøet. Hvorfor vælge den hurtige løsning, når nu det er lige så let at vælge de bæredygtige råvarer udtaler Peter Mose.  
 
 ### Leverandører
-
-**Billeder af alle logoer – link til dem alle – dvs. man dropper længere ned på siden hvor der står om det pågældende mærke**
 
 #### [DFD UPCY – genanvendelige tekstiler](https://www.dfd.dk/dfd-upcy)
 
@@ -59,6 +52,5 @@ Hansens Flødeis bliver fremstillet med mælk fra nabogården Svanholm og Stensb
 Det er alle gode traditioner vil ønsker at værne om og noget der falder i vores smag. Derfor tilbyder vi vores kunder softice fra Hansen Is. Isen anvendes både i restauranten og i SKOVS takeaway.
 
 #### Økologisk mølle der maler melet - Kornbymølle
-
 
 #### Charcuteri er fra [Rævhede Naturprodukter](https://www.raevhedenaturprodukter.dk/)
