@@ -8,7 +8,7 @@ section: arrangementer
 date: 2018-01-01
 permalink: /arrangementer/index.html
 eleventyNavigation:
-  key: Arrangementer
+  key: Arrangement
   order: 3
 ---
 <div class="page-links">
@@ -29,6 +29,8 @@ Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 4
 ![](/static/img/logo_wave_blue-0.1x.jpg)
 
 <h2 id="bryllup">Bryllup</h2> 
+
+
 
 ![](/static/img/bryllup.jpeg)
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres bryllup. 
