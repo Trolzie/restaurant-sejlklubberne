@@ -260,7 +260,9 @@ Kaffe og sødt
 
 Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke, penne og vand med og uden brus. Andet udstyr kan arrangeres efter ønske og aftale, og afregnes udover den faste pris.
 
-Vores middag serveres som Sharing Style. Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
+#### Vores middag serveres som Sharing Style. 
+
+Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
 
 #### Lokaleoversigt
 
@@ -277,7 +279,11 @@ I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte
 
 <div class="text-left">
 
-Vores brunch serveres som Sharing Style. Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
+#### \-
+
+#### Vores brunch serveres som Sharing Style. 
+
+Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
 
 </div>
 
@@ -286,7 +292,7 @@ Vores brunch serveres som Sharing Style. Det vil sige, at der bliver serveret fl
 Max 3 timer eller efter skriftlig aftale
 Minimum 20 couverter.
 
-#### **Velkomst**
+#### Velkomst
 
 Brunch serveret ved bordene à flere omgange
 
@@ -294,58 +300,43 @@ Kaffe, te, juice og vand med og uden brus
 
 495,- kr. pr person
 
-Brød
+#### Brunchmenu
+
 Surdejsbrød og rugbrød med saltet smør
 
-Croissant
 Smørbagt croissant
 
-Marmelade og chokolade
 Lille skål med hjemmelavet marmelade og chokolade spread
 
-Vesterhavsost
 Tynde skiver af Vesterhavsost
 
-Charcuteri
-Udvalg af lufttørret pølse og skinke fra Rævhede Naturprodukter
+Charcuteri - Udvalg af lufttørret pølse og skinke fra Rævhede Naturprodukter
 
-Røget laks
 Skiver af røget færøsk laks med creme fraiche og karse
 
-Lun vaffel
 Vaffel med luftig creme og bærkompot
 
-Rosa grape brulée
-½ grapefrugt glaseret med rørsukker
+Rosa grape brulée - ½ grapefrugt glaseret med rørsukker
 
-Yoghurt med granola
 Skål med yoghurt og hjemmelavet ristet granola og bærkompot
 
-Avocado med hummus
 ½ avokado serveret med hummus, knas og mild chili
 
-Tomatsalat med burrata
 Salat af solmodne tomater med brud af burrata og basilikum
 
-Æg & bacon
 Cremet røræg med ristet lufttørret bacon og purløg
 
-Pølser
 Små ristede pølser fra Hegnsholt
 
-Tilkøb - lidt ekstra til jeres brunch
+#### Tilkøb - lidt ekstra til jeres brunch
 
-Østers
-3 stk. serveret naturale med citron og hot sauce
-145,-
+Østers - 3 stk. serveret naturale med citron og hot sauce 145,-
 
-Hummersalat
-Lun salat af hel hummerhale med hummerfløde og aromatiske salater
-155,-
+Lun salat af hel hummerhale med hummerfløde og aromatiske salater 155,-
 
-Bearii kaviar 30 gr.
-Smørristede kartoffelblinis, creme fraiche og rødløg
-Pris pr. dåse à 30 gr
+Bearii kaviar 30 gr. - Smørristede kartoffelblinis, creme fraiche og rødløg. Pris pr. dåse à 30 gr
+
+
 
 <div class="text-left">
 
@@ -443,6 +434,6 @@ Vaniljeparfait med knas 35,-
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres arrangement. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
 
-</div>
-
 Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+
+</div>
