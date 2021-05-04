@@ -66,7 +66,7 @@ Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, m
 
 #### Lokaleoversigt
 
-Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **[Se lokalerne ved at klikke her](https://romantic-bhabha-ebc1f3.netlify.app/admin/#/collections/pages/entries/lokaleoversigt)**
 
 **Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
 
@@ -75,6 +75,7 @@ Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres 
 <h2 id="konfirmation">Konfirmation</h2>
 
 ![](/static/img/konfirmation.jpeg)
+
 <div class="text-left"> I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres barns store dag. 
 
 De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak om den store dage. 
@@ -178,6 +179,7 @@ Hindbær - brændt hvid chokolade - sorbet
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
 
 **Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
+
 </div>
 
 <h2 id="konference">Møde/Konference</h2>
@@ -185,8 +187,6 @@ Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres 
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres næste møde eller konference. Udnyt de smukke omgivelser med en Walk and Talk langs havnepromenaden eller få frisk luft til hovedet, blot ved at åbne et vindue. 
 
 Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
-
-
 
 ### Konferencepakke 1
 
