@@ -271,17 +271,9 @@ Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.d
 <h2 id="arrangement">Frokost/Aften Arrangement</h2>
 
 <h2 id="brunch">Brunch</h2>
-I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for en lækker brunch. 
+I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for en lækker brunch. Vores brunch serveres som Sharing Style. Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
 
-<div class="text-left">
 
-#### \-
-
-#### Vores brunch serveres som Sharing Style.
-
-Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
-
-</div>
 
 ### Brunch serveres fra kl. 10:30-15.
 
