@@ -41,18 +41,13 @@ Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail]
 
 Bryllups arrangement fra 18:00 til 02:00
 
-Velkomst med aperitif og snacks
-
-3-retters menu (Sharing/Family Style)
-
-Vinmenu
-
-Der serveres vand med og uden brus under middagen
-
-Kaffe, te, sødt og en avec
-
-Åben bar med spiritus 
-yderligere timer kan tilkøbes 100,- pr person pr ekstra time
+* Velkomst med aperitif og snacks
+* 3-retters menu (Sharing/Family Style)
+* Vinmenu
+* Der serveres vand med og uden brus under middagen
+* Kaffe, te, sødt og en avec
+* Åben bar med spiritus 
+  yderligere timer kan tilkøbes 100,- pr person pr ekstra time
 
 Menu 1: 1795,- / Menu 2: 1595,- **Link til menu 1 og 2**
 
