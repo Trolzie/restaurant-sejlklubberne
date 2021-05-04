@@ -66,21 +66,17 @@ Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, m
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
 
-</div>
-
 Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
-
+</div>
 
 <h2 id="konfirmation">Konfirmation</h2>
 
 ![](/static/img/konfirmation.jpeg)
 
-<div class="text-left"> I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres barns store dag. 
+I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres barns store dag. 
 
-De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak om den store dage. 
-
-</div>
+De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. 
 
 ### Frokostarrangement 12-16
 
@@ -180,15 +176,13 @@ Hindbær - brændt hvid chokolade - sorbet
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres konfirmation. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
 
+Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak om den store dage. 
+
 </div>
 
 <h2 id="konference">Møde/Konference</h2>
 
-<div class="text-left">
-
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres næste møde eller konference. Udnyt de smukke omgivelser med en Walk and Talk langs havnepromenaden eller få frisk luft til hovedet, blot ved at åbne et vindue. 
-
-</div>
 
 ### Konferencepakke 1
 
@@ -199,7 +193,9 @@ Nedenstående er et eksempel på morgen halvdagsmøde i tidsrummet fra kl. 6:30-
 #### Let morgenmad
 
 Kaffe, te og juice
-Yoghurt med granola og kompot
+
+Yoghurt med granola og kompot. 
+
 Surdejsbrød og rugbrød med saltet smør, ost og marmelade
 
 #### Formiddagspause
@@ -210,7 +206,8 @@ Kaffe, te, friskpresset juice, salt og sødt fra køkkenet
 
 Drikkevarer efter forbrug
 
-Eftermiddagspause
+#### Eftermiddagspause
+
 Kaffe, te og hjemmebag fra egen konditor
 
 650 kr. pr person
@@ -228,7 +225,9 @@ Nedenstående er et eksempel på heldagsmøde i tidsrummet fra kl. 08-22
 #### Let morgenmad
 
 Kaffe, te og juice
+
 Yoghurt med granola og kompot
+
 Surdejsbrød og rugbrød med saltet smør, ost og marmelade
 
 #### Formiddagspause
@@ -267,9 +266,9 @@ Vores middag serveres som Sharing Style. Det vil sige, at der bliver serveret fl
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres møde. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
 
-</div>
-
 Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+
+</div>
 
 <h2 id="arrangement">Frokost/Aften Arrangement</h2>
 
