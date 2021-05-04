@@ -84,7 +84,7 @@ cremeux, brændt hvid chokolade og chokoladeis 95,-
 
 <h2 id="aften-kort">Aften kort</h2>
 
-#### **Forretter**
+#### Forretter
 
 Salat med rimmet laks
 æg og friske urter 155,-
