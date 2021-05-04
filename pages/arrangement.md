@@ -38,11 +38,12 @@ I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte
 Vi er behjælpelige med alle forberedelserne, i alle festens faser - naturligvis også individuelle ønsker. Det er meget vigtigt for os, at brudeparret og gæsterne kan læne sig tilbage, nyde rammerne, maden, vinen og servicen – så klarer vi resten.
 
 Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+
 </div>
 
 ### Bryllups pakke
 
-Bryllups arrangement fra 18:00 til 02:00
+<div class="text-left"> Bryllups arrangement fra 18:00 til 02:00
 
 * Velkomst med aperitif og snacks
 * 3-retters menu (Sharing/Family Style)
@@ -51,6 +52,8 @@ Bryllups arrangement fra 18:00 til 02:00
 * Kaffe, te, sødt og en avec
 * Åben bar med spiritus 
   yderligere timer kan tilkøbes 100,- pr person pr ekstra time
+
+  </div>
 
 Menu 1: 1795,- / Menu 2: 1595,- **Link til menu 1 og 2**
 
