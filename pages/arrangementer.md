@@ -106,7 +106,9 @@ Menu 1: 1.295,- / Menu 2: 1.095,- kr. pr person
 Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 Minimum 15 couverter.
 
-**Konceptet og middagen er Sharing eller Family Style** Det betyder, at der bliver serveret flere retter på mindre fade. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere. Menuen vil være tilpasset sæsonen, og der kan forekomme ændringer. 
+#### Konceptet og middagen er Sharing eller Family Style 
+
+Det betyder, at der bliver serveret flere retter på mindre fade. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere. Menuen vil være tilpasset sæsonen, og der kan forekomme ændringer. 
 
 #### Menu 1
 
