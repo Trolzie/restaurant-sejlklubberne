@@ -9,7 +9,10 @@ eleventyNavigation:
   key: Lokaleoversigt
   order: 7
 ---
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt.
+
 Lokale Nord og Øst har panoramaudsigt over smukke Øresund. Her er der plads til 120 siddende gæster og udgang til egen terrasse. 
+
 Lokale Nord har panoramaudsigt over smukke Øresund, og der er plads til 30 siddende gæster.
 Lokale Øst har panoramaudsigt over smukke Øresund, udgang til egen terrasse og plads til 80 siddende gæster.
 
