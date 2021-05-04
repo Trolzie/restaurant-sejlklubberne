@@ -31,11 +31,14 @@ Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 4
 <h2 id="bryllup">Bryllup</h2> 
 
 ![](/static/img/bryllup.jpeg)
+
+<div class="text-left">
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres bryllup. 
 
 Vi er behjælpelige med alle forberedelserne, i alle festens faser - naturligvis også individuelle ønsker. Det er meget vigtigt for os, at brudeparret og gæsterne kan læne sig tilbage, nyde rammerne, maden, vinen og servicen – så klarer vi resten.
 
 Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+</div>
 
 ### Bryllups pakke
 
