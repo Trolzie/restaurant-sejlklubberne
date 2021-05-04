@@ -20,13 +20,13 @@ eleventyNavigation:
 
 I de smukke maritime omgivelser med udsigt over Øresund er der plads til hverdagsmad, romantiske middage, møder og festlige fejringer for hele familien. 
 
-Vi gør os altid umage og vi går aldrig på kompromis med hverken smag eller samvittighed. Vores råvarer og leverandører er håndplukkede, og vi går efter sæsonens bedste råvarer. 
+Vi gør os altid umage og vi går aldrig på kompromis med smagsoplevelsen. Vores råvarer og leverandører er håndplukkede, og vi går efter sæsonens bedste råvarer. 
 
-Den nye forpagter og kok Peter Mose (Ensemble, Luns, Gourmandiet) er inspireret af det franske køkken og mestrer gastronomi på højt stjerneniveau. Han sætter dog ligeså stor pris på det rustikke og enkle, hvilket giver sig til udtryk i menukortet. 
+Den nye forpagter og kok Peter Mose er inspireret af det franske køkken og mestrer gastronomi på højt stjerneniveau. Han sætter dog ligeså stor pris på det rustikke og enkle, hvilket giver sig til udtryk i menuen. 
 
 Vi glæder os til at byde jer velkommen.
 
-**Restauranten har åbent for frokost fra kl. 12-15 og aftenservering fra kl. 17–21**
+**Restauranten serverer frokost fra kl. 12-15 og middag fra kl. 17–21**
 
 <a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
 
