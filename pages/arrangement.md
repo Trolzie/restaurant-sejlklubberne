@@ -60,15 +60,13 @@ yderligere timer kan tilkøbes 100,- pr person pr ekstra time
 
 Menu 1: 1795,- / Menu 2: 1595,- **Link til menu 1 og 2**
 
-Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
-
 <div class="text-left">
+
+Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 
 #### Lokaleoversigt
 
-Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **[Se lokalerne ved at klikke her](https://romantic-bhabha-ebc1f3.netlify.app/admin/#/collections/pages/entries/lokaleoversigt)**
-
-**Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
 
 </div>
 
@@ -176,9 +174,7 @@ Hindbær - brændt hvid chokolade - sorbet
 
 #### Lokaleoversigt
 
-Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
-
-**Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres konfirmation. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
 
 </div>
 
@@ -257,16 +253,7 @@ Vores middag serveres som Sharing Style. Det vil sige, at der bliver serveret fl
 
 #### Lokaleoversigt
 
-Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
-
-**Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
-Lejen er som følgende og pålægges den samlede pris
-Nord og Øst: 3.000 kr.
-Nord: 1.000 kr.
-Øst: 2.000 kr.
-Syd 1 og 2: 2.500 kr.
-Syd 1: 1.000 kr.
-Syd 2: 1.500 kr.
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres møde. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
 
 <h2 id="arrangement">Frokost/Aften Arrangement</h2>
 
@@ -345,16 +332,7 @@ Pris pr. dåse à 30 gr
 
 #### Lokaleoversigt
 
-Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
-
-**Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
-Lejen er som følgende og pålægges den samlede pris
-Nord og Øst: 3.000 kr.
-Nord: 1.000 kr.
-Øst: 2.000 kr.
-Syd 1 og 2: 2.500 kr.
-Syd 1: 1.000 kr.
-Syd 2: 1.500 kr.
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres brunch. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
 
 <h2 id="begravelse">Begravelse</h2>
 
@@ -438,13 +416,4 @@ Vaniljeparfait med knas 35,-
 
 #### Lokaleoversigt
 
-Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. **Se lokalerne ved at klikke her**
-
-**Nb:** På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. 
-Lejen er som følgende og pålægges den samlede pris
-Nord og Øst: 3.000 kr.
-Nord: 1.000 kr.
-Øst: 2.000 kr.
-Syd 1 og 2: 2.500 kr.
-Syd 1: 1.000 kr.
-Syd 2: 1.500 kr.
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres arrangement. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
