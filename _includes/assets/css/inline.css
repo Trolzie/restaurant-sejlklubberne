@@ -65,10 +65,6 @@ a[href]:visited {
 	color: var(--logo-color);
 }
 
-a[href]:not(:hover) {
-	text-decoration: none;
-}
-
 img {
 	max-width: 100%;
 	height: auto;
@@ -295,6 +291,7 @@ button {
 	margin: 0 1rem;
 	color: var(--logo-color);
 	transition: all 0.2s ease-in-out;
+	text-decoration: none;
 }
 
 .splash-links ul li a:hover {
@@ -360,6 +357,18 @@ button {
 .footer .food-links ul {
 	padding: 0;
 	margin: 0;
+}
+
+.footer .contact-links ul li a,
+.footer .food-links ul li a,
+.footer .smiley span a {
+	text-decoration: none;
+}
+
+.footer .contact-links ul li a:hover,
+.footer .food-links ul li a:hover,
+.footer .smiley span a:hover {
+	text-decoration: underline;
 }
 
 .footer .contact-links ul li,
@@ -553,6 +562,11 @@ h3 {
 	font-size: 1.4rem;
 }
 
+h4 {
+	font-weight: 300;
+	font-size: 1rem;
+}
+
 ul.restaurant-links {
 	margin: 0;
 	padding: 0;
@@ -590,6 +604,7 @@ ul.restaurant-links li {
 	margin: 0 0.3rem;
 	color: var(--logo-color);
 	transition: all 0.2s ease-in-out;
+	text-decoration: none;
 }
 
 .page-links ul li a:hover {
