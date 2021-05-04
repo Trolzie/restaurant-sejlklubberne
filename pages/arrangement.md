@@ -37,8 +37,6 @@ I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte
 
 Vi er behjælpelige med alle forberedelserne, i alle festens faser - naturligvis også individuelle ønsker. Det er meget vigtigt for os, at brudeparret og gæsterne kan læne sig tilbage, nyde rammerne, maden, vinen og servicen – så klarer vi resten.
 
-Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
-
 </div>
 
 ### Bryllups pakke
@@ -69,6 +67,10 @@ Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, m
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
 
 </div>
+
+Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+
+
 
 <h2 id="konfirmation">Konfirmation</h2>
 
@@ -114,6 +116,8 @@ Menu 1: 1.295,- / Menu 2: 1.095,- kr. pr person
 
 Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 Minimum 15 couverter.
+
+
 
 #### Konceptet og middagen er Sharing eller Family Style
 
@@ -180,9 +184,11 @@ Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres 
 
 <h2 id="konference">Møde/Konference</h2>
 
+<div class="text-left">
+
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres næste møde eller konference. Udnyt de smukke omgivelser med en Walk and Talk langs havnepromenaden eller få frisk luft til hovedet, blot ved at åbne et vindue. 
 
-Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+</div>
 
 ### Konferencepakke 1
 
@@ -209,7 +215,11 @@ Kaffe, te og hjemmebag fra egen konditor
 
 650 kr. pr person
 
+<div class="text-left">
+
 Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke, penne og vand med og uden brus. Andet udstyr kan arrangeres efter ønske og aftale, og afregnes udover den faste pris.
+
+</div>
 
 ### Konferencepakke 2
 
@@ -247,6 +257,8 @@ Kaffe og sødt
 
 1.350 kr. pr person 
 
+<div class="text-left">
+
 Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke, penne og vand med og uden brus. Andet udstyr kan arrangeres efter ønske og aftale, og afregnes udover den faste pris.
 
 Vores middag serveres som Sharing Style. Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
@@ -255,14 +267,20 @@ Vores middag serveres som Sharing Style. Det vil sige, at der bliver serveret fl
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres møde. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
 
+</div>
+
+Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+
 <h2 id="arrangement">Frokost/Aften Arrangement</h2>
 
 <h2 id="brunch">Brunch</h2>
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for en lækker brunch. 
 
-Er du interesseret på at høre mere så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+<div class="text-left">
 
 Vores brunch serveres som Sharing Style. Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
+
+</div>
 
 ### Brunch serveres fra kl. 10:30-15.
 
@@ -330,19 +348,25 @@ Bearii kaviar 30 gr.
 Smørristede kartoffelblinis, creme fraiche og rødløg
 Pris pr. dåse à 30 gr
 
+<div class="text-left">
+
 #### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres brunch. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
+
+</div>
+
+Er du interesseret på at høre mere så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
 <h2 id="begravelse">Begravelse</h2>
 
 Et sidste farvel er altid svært. Hos Sejlklubbernes restaurant vil vi gøre vores til, at danne hyggelige rammer om jeres sidste farvel. I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi nedenstående.
 
-Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
-Minimum 15 couverter
 
 ### Begravelses pakke
+
+Minimum 15 couverter
 
 Kaffe og te
 
@@ -414,6 +438,12 @@ Små fyldte chokolader 25,-
 
 Vaniljeparfait med knas 35,-
 
+<div class="text-left">
+
 #### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres arrangement. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
+
+</div>
+
+Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
