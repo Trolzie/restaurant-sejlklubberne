@@ -34,7 +34,7 @@ Vi glæder os til at byde jer velkommen.
 
 ![](/static/img/logo_wave_blue-0.1x.jpg)
 
-<h2 id="frokost-kort">Frokost kort</h2>
+<h2 id="frokost">Frokost kort</h2>
 
 #### Smørrebrød
 
@@ -82,7 +82,7 @@ rabarber mousse, vaniljeis og sprød crumble 75,-
 Chokolade entremet
 cremeux, brændt hvid chokolade og chokoladeis 95,-
 
-<h2 id="aften-kort">Aften kort</h2>
+<h2 id="aften">Aften kort</h2>
 
 #### Forretter
 
