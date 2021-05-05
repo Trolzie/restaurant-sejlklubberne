@@ -1,9 +1,12 @@
-TODO:
+# Sejlklubbernes Restaurant 
 
+This repository contains all files for generating the website for 'Sejlklubbernes Restaurant'. The website is:
+https://www.sejlklubbernesrestaurant.dk/
 
-clean up css page
+It is currently hosted on Netlify.
 
-første i bryllup
+## TODO
 
-lokaleoversigt skal ikke kunne ses
-
+- clean up css page
+- update metadata on each page (description etc.)
+- facebook open graph tags? that kind of stuff.
