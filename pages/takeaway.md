@@ -21,7 +21,7 @@ Lørdag - søndag fra kl. 9-19
 
 Med SKOVS takeaway ønsker vi at skabe en lille dagligvare oase, hvor sejlende og besøgende på havnen kan købe proviant til turen – alt lige fra færdiglavede retter lige til at tage med hjem og varme, delikate oste, mælk, charcuteri, nybagt surdejsbrød og lækre take away retter. 
 
-Alle varerne er nøje udvalg efter den gode smagsoplevelse og brødet bages om morgenen i restaurantens køkken. Forudbestil eksempelvis brød til weekenden.
+Brødet bages om morgenen i restaurantens køkken. Forudbestil eksempelvis brød til weekenden via takeaway linket.
 
 ![](/static/img/180645976_500555317793847_1789666457054511329_n.jpg)
 
