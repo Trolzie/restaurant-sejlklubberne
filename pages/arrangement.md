@@ -64,7 +64,7 @@ Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, m
 
 #### Lokaleoversigt
 
-Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **Se lokalerne og lokaleleje ved at klikke her**
+Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **[Se lokalerne og lokaleleje ved at klikke her](https://romantic-bhabha-ebc1f3.netlify.com/lokaleoversigt)**
 
 Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
