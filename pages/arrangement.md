@@ -56,7 +56,7 @@ Kaffe, te, sødt og en avec
 Åben bar med spiritus 
 yderligere timer kan tilkøbes 100,- pr person pr ekstra time
 
-Menu 1: 1795,- / Menu 2: 1595,- **Link til menu 1 og 2**
+Menu 1: 1795,- / Menu 2: 1595,- 
 
 <div class="text-left">
 
