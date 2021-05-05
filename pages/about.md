@@ -1,8 +1,6 @@
 ---
 title: Om Os
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.desciption will be used
-  instead.
+metaDescription: Om Sejlklubbernes Restarant, bæredygtighed, leverandører.
 date: 2017-01-01T00:00:00.000Z
 permalink: /omos/index.html
 eleventyNavigation:
@@ -14,7 +12,6 @@ Hos Sejlklubbernes restaurant har besætningen indfundet deres pladser på kajen
 
 
 ### Bæredygtighed
-
 
 
 Hos Sejlklubbernes restaurant tænker vi bæredygtighed ind i alle restaurantens faser. Vi kan slet ikke lade være! Det er lige fra personalets uniformer, der er produceret af genanvendelige tekstiler til affaldssortering og valg af leverandører. 

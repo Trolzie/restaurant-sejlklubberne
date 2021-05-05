@@ -1,9 +1,7 @@
 ---
 layout: layouts/arrangement.njk
 title: Arrangement
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.desciption will be used
-  instead.
+metaDescription: Arrangementer hos Sejlklubbernes Restarant, bryllup, konfirmation, konference, arrangement, brunch, begravelse.
 section: arrangement
 date: 2018-01-01
 permalink: /arrangement/index.html
