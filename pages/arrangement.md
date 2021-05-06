@@ -1,7 +1,8 @@
 ---
 layout: layouts/arrangement.njk
 title: Arrangement
-metaDescription: Arrangementer hos Sejlklubbernes Restarant, bryllup, konfirmation, konference, arrangement, brunch, begravelse.
+metaDescription: Arrangementer hos Sejlklubbernes Restarant, bryllup,
+  konfirmation, konference, arrangement, brunch, begravelse.
 section: arrangement
 date: 2018-01-01
 permalink: /arrangement/index.html
@@ -22,7 +23,7 @@ eleventyNavigation:
 
 I de smukke maritime omgivelser med udsigt over Øresund er der plads til hverdagsmad, romantiske middage, møder og festlige fejringer for hele familien. 
 
-Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak. 
+Kontakt os på **[](kontakt@restaurantsejlklubberne.dk)[mail](<Logo af Restaurant Sejlklubberne  kontakt@restaurantsejlklubberne.dk>)** eller telefon 39 46 30 46 til en uforpligtende snak. 
 
 ![](/static/img/logo_wave_blue-0.1x.jpg)
 
