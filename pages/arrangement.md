@@ -23,7 +23,7 @@ eleventyNavigation:
 
 I de smukke maritime omgivelser med udsigt over Øresund er der plads til hverdagsmad, romantiske middage, møder og festlige fejringer for hele familien. 
 
-Kontakt os på [mail](mailto:kontakt@restaurantsejlklubberne.dk) eller telefon 39 46 30 46 til en uforpligtende snak. 
+Kontakt os på mail eller telefon 39 46 30 46 til en uforpligtende snak. 
 
 ![](/static/img/logo_wave_blue-0.1x.jpg)
 
@@ -65,7 +65,7 @@ Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, m
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres bryllup. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **[Se lokalerne og lokaleleje ved at klikke her](https://romantic-bhabha-ebc1f3.netlify.com/lokaleoversigt)**
 
-Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail](mailto:kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
 </div>
 
@@ -171,7 +171,7 @@ Hindbær - brændt hvid chokolade - sorbet
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres konfirmation. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **[Se lokalerne og lokaleleje ved at klikke her](https://romantic-bhabha-ebc1f3.netlify.com/lokaleoversigt)**
 
-Kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak om den store dage. 
+Kontakt os på **[mail](mailto:kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak om den store dage. 
 
 </div>
 
@@ -263,7 +263,7 @@ Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løb
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres møde. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **[Se lokalerne og lokaleleje ved at klikke her](https://romantic-bhabha-ebc1f3.netlify.com/lokaleoversigt)**
 
-Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+Er du interesseret så kontakt os på **[mail](mailto:kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
 </div>
 
@@ -329,7 +329,7 @@ Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres 
 
 </div>
 
-Er du interesseret på at høre mere så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+Er du interesseret på at høre mere så kontakt os på **[mail](mailto:kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
 <h2 id="begravelse">Begravelse</h2>
 
@@ -415,6 +415,6 @@ Vaniljeparfait med knas 35,-
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres arrangement. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **[Se lokalerne og lokaleleje ved at klikke her](https://romantic-bhabha-ebc1f3.netlify.com/lokaleoversigt)**
 
-Er du interesseret så kontakt os på **[mail](kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
+Er du interesseret så kontakt os på **[mail](mailto:kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
 </div>
