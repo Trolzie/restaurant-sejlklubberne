@@ -17,9 +17,9 @@ eleventyNavigation:
   </ul>
 </div>
 
-
-
 ![](/static/img/billede-til-hjemmeside-restaurant.jpg)
+
+<a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
 
 I de smukke maritime omgivelser med udsigt over Øresund er der plads til hverdagsmad, romantiske middage, møder og festlige fejringer for hele familien. 
 
@@ -30,8 +30,6 @@ Den nye forpagter og kok Peter Mose er inspireret af det franske køkken og mest
 Vi glæder os til at byde jer velkommen.
 
 **Restauranten serverer frokost fra kl. 12-15 og middag fra kl. 17–21**
-
-<a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
 
 <h2 id="frokost">Frokost kort</h2>
 
