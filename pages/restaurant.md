@@ -17,6 +17,10 @@ eleventyNavigation:
   </ul>
 </div>
 
+
+
+![](/static/img/billede-til-hjemmeside-restaurant.jpg)
+
 I de smukke maritime omgivelser med udsigt over Øresund er der plads til hverdagsmad, romantiske middage, møder og festlige fejringer for hele familien. 
 
 Vi gør os altid umage og vi går aldrig på kompromis med smagsoplevelsen. Vores råvarer og leverandører er håndplukkede, og vi går efter sæsonens bedste råvarer. 
@@ -28,10 +32,6 @@ Vi glæder os til at byde jer velkommen.
 **Restauranten serverer frokost fra kl. 12-15 og middag fra kl. 17–21**
 
 <a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
-
-![](/static/img/billede-til-hjemmeside-restaurant.jpg)
-
-
 
 <h2 id="frokost">Frokost kort</h2>
 
