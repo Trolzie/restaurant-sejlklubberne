@@ -29,7 +29,7 @@ Kontakt os på [mail](mailto:kontakt@restaurantsejlklubberne.dk) eller telefon 3
 
 <h2 id="bryllup">Bryllup</h2> 
 
-![](/static/img/bryllup.jpeg)
+![]()
 
 <div class="text-left">
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres bryllup. 
@@ -71,7 +71,7 @@ Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail]
 
 <h2 id="konfirmation">Konfirmation</h2>
 
-![](/static/img/konfirmation.jpeg)
+![]()
 
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres barns store dag. De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Nedenstående er vores forslag til en konfirmationspakke.
 
