@@ -1,7 +1,8 @@
 ---
 layout: layouts/restaurant.njk
 title: Restaurant
-metaDescription: Sejlklubbernes Restarant serverer frokost, smørrebrød, forretter, hovederetter, dessert.
+metaDescription: Sejlklubbernes Restarant serverer frokost, smørrebrød,
+  forretter, hovederetter, dessert.
 section: restaurant
 date: 2018-01-01
 permalink: /restaurant/index.html
@@ -28,7 +29,7 @@ Vi glæder os til at byde jer velkommen.
 
 <a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
 
-![](/static/img/180881031_889854698259351_8564399153402122095_n.jpg)
+![](/static/img/billede-til-hjemmeside-restaurant.jpg)
 
 ![](/static/img/logo_wave_blue-0.1x.jpg)
 
