@@ -31,7 +31,7 @@ Vi glæder os til at byde jer velkommen.
 
 ![](/static/img/billede-til-hjemmeside-restaurant.jpg)
 
-![](/static/img/logo_wave_blue-0.1x.jpg)
+
 
 <h2 id="frokost">Frokost kort</h2>
 
