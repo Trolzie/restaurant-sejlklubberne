@@ -15,7 +15,7 @@ Mandag - lørdag fra kl. 10-19
 
 Lørdag - søndag fra kl. 9-19
 
-<a class="call-to-action" target="_blank" href="https://login.onlinepos.dk/taw_v3/13687/?page=menukort&pgid=1576165">Bestil Takeaway</a>
+**Bestil takeaway på telefon 39 64 30 46**
 
 Med SKOVS takeaway ønsker vi at skabe en lille dagligvare oase, hvor sejlende og besøgende på havnen kan købe proviant til turen – alt lige fra færdiglavede retter lige til at tage med hjem og varme, delikate oste, mælk, charcuteri, nybagt surdejsbrød og lækre take away retter. 
 
