@@ -17,7 +17,7 @@ eleventyNavigation:
   </ul>
 </div>
 
-![](/static/img/billede-til-hjemmeside-restaurant.jpg)
+![](/static/img/billede-hjemmeside-restaurant-1000.jpg)
 
 <a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
 
