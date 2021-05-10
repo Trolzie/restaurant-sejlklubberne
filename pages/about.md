@@ -7,12 +7,11 @@ eleventyNavigation:
   key: Om os
   order: 5
 ---
-Hos Sejlklubbernes restaurant har besætningen indfundet deres pladser på kajen og vi er klar til at byde jer indenfor i de nyrenoverede lokaler. Med Kaptajn Peter Mose bag roret har restauranten stukket en ny retning og vi håber, at I vil tage godt imod os. 
+Besætningen har så småt indfundet deres pladser på kajen og vi er klar til at byde jer indenfor i de nyrenoverede lokaler. Med Kaptajn Peter Mose bag roret har restauranten stukket en ny retning og vi håber, at I vil tage godt imod os. 
 
-
+**Ønsker du at være en del af teamet så send en ansøgning til [mail ](mailto:kontakt@restaurantsejlklubberne.dk)eller kom forbi med din ansøgning. Lige nu mangler vi tjenere til sommerteamet.** 
 
 ### Bæredygtighed
-
 
 Hos Sejlklubbernes restaurant tænker vi bæredygtighed ind i alle restaurantens faser. Vi kan slet ikke lade være! Det er lige fra personalets uniformer, der er produceret af genanvendelige tekstiler til affaldssortering og valg af leverandører. 
 
