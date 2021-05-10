@@ -83,40 +83,31 @@ cremeux, brændt hvid chokolade og chokoladeis 95,-
 
 #### Forretter
 
-Salat med rimmet laks
-æg og friske urter 155,-
+Salat med rimmet laks æg og friske urter 155,-
 
-Dåser fra Fangst – hør tjener for udvalg
-mayonnaise, citron og tapanade 110,-
+Dåser fra Fangst – hør tjener for udvalg. Serveres med mayonnaise, citron og tapanade 110,-
 
-Charcuterie
-sortfod skinke, coppa, peber pølse og behørig garniture 140,-
+Charcuterie med sortfod skinke, coppa, peber pølse og behørig garniture 140,-
 
-Oksetatar
-løg mayonnaise, syltet løg og sprød kartoffel 125,-
+Pil selv rejer med mayonnaise, citron og grillet brød 140,-
 
-Tuntatar
-bagte tomater og tomat vinagrette 150,-
+Oksetatar med løg mayonnaise, syltet løg og sprød kartoffel 125,-
+
+Tuntatar med bagte tomater og tomat vinagrette 150,-
 Tilføj 10 gr. Baeri caviar 150,-
 
-Råstegt hummer
-hvide asparges og sauce mousseline 280,-
+Råstegt hummer med hvide asparges og sauce mousseline 280,-
 
-Kalvebrissel
-ærter francaise med tørsaltet bacon, hjerte salat og stegesky 165,-
+Kalvebrissel med ærter francaise med tørsaltet bacon, hjerte salat og stegesky 165,-
 
 #### Hovedretter
 
-Pocheret helleflynder
-hvide asparges, spinat og muslinge sauce 195,-
+Stegt pighvar med nye løg, spinat og cremet pighvar sauce 240,-
 Tilføj 10 gr. Baeri caviar 150,-
 
-Stegt oksemørbrad
-grønne asparges og tæt sauce bordelaise med røget marv 260,-
+Udbenet poussin. Frikass med forårs grønt og morkler 225,-
 
-Dagens simreret efter kokkens lyst og iver
-
-\-spørg venligst jeres tjener omkring dette 150,-
+Dagens simreret efter kokkens lyst og iver -spørg venligst jeres tjener omkring dette 150,-
 
 #### Dessert
 
