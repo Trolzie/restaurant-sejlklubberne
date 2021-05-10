@@ -69,8 +69,6 @@ Er du interesseret, inspireret eller blot nysgerrig, så kontakt os på **[mail]
 
 <h2 id="konfirmation">Konfirmation</h2>
 
-![]()
-
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres barns store dag. De fleste konfirmander har helt styr på hvordan deres store dag skal foregå og det ønsker vi at hjælpe med. Nedenstående er vores forslag til en konfirmationspakke.
 
 ### Frokostarrangement 12-16
@@ -416,3 +414,7 @@ Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres 
 Er du interesseret så kontakt os på **[mail](mailto:kontakt@restaurantsejlklubberne.dk)** eller telefon 39 46 30 46 til en uforpligtende snak.
 
 </div>
+
+
+
+![]()
