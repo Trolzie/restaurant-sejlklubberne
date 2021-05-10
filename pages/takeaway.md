@@ -37,9 +37,9 @@ Chili mayo, trøffel mayo og ketchup 10,-
 
 Pil selv-rejer 140,-
 
-Dagens simreret 75,-
+Dagens simre ret 75,-
 
-Klap i toast 50,-
+Klap i toast med skinke, vesterhavs ost og sennep 50,-
 
 ### Brød
 
