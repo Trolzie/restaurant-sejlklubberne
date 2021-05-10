@@ -111,12 +111,10 @@ Dagens simreret efter kokkens lyst og iver -spørg venligst jeres tjener omkring
 
 #### Dessert
 
-Petit four
+Petit four 15,-
 
-Bagte rabarber
-rabarber mousse, vaniljeis og sprød crumble 75,-
+Bagte rabarber med rabarber mousse, vaniljeis og sprød crumble 75,-
 
-Chokolade entremet
-cremeux, brændt hvid chokolade og chokoladeis og 95,-
+Chokolade entremet med cremeux, brændt hvid chokolade og chokoladeis og 95,-
 
 <a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
