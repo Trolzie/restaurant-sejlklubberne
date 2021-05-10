@@ -25,11 +25,9 @@ I de smukke maritime omgivelser med udsigt over Øresund er der plads til hverda
 
 Kontakt os på [mail](mailto:kontakt@restaurantsejlklubberne.dk) eller telefon 39 46 30 46 til en uforpligtende snak. 
 
-![](/static/img/logo_wave_blue-0.1x.jpg)
+![](/static/img/billede-hjemmeside-arrangement.jpg)
 
 <h2 id="bryllup">Bryllup</h2> 
-
-![]()
 
 <div class="text-left">
 I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte rammer for jeres bryllup. 
