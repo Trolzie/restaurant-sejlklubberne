@@ -9,6 +9,10 @@ eleventyNavigation:
   key: Takeaway
   order: 2
 ---
+
+
+![](/static/img/180645976_500555317793847_1789666457054511329_n.jpg)
+
 **Åbningstider**
 
 Mandag - lørdag fra kl. 10-19
@@ -19,6 +23,32 @@ Lørdag - søndag fra kl. 9-19
 
 Med SKOVS takeaway ønsker vi at skabe en lille dagligvare oase, hvor sejlende og besøgende på havnen kan købe proviant til turen – alt lige fra færdiglavede retter lige til at tage med hjem og varme, delikate oste, mælk, charcuteri, nybagt surdejsbrød og lækre take away retter. 
 
-Brødet bages om morgenen i restaurantens køkken. Forudbestil eksempelvis brød til weekenden via takeaway linket.
+### Takeaway menu
 
-![](/static/img/180645976_500555317793847_1789666457054511329_n.jpg)
+Skovser burger med pommes fritter og mayonnaise 130,-
+
+Skovser burger 89,-
+
+Fish N Chips 120,-
+
+Extra fritter 35,-
+
+Chili mayo, trøffel mayo og ketchup 10,-
+
+Pil selv-rejer 140,-
+
+Dagens simreret 75,-
+
+Klap i toast 50,-
+
+### Brød
+
+Croissant 30,-
+
+Skovser rugbrød 35,-
+
+Skovser surdejsbrød 45,-
+
+Skovser bolle 12,-
+
+Skovser bolle med smør og ost 24,-
