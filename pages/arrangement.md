@@ -21,11 +21,13 @@ eleventyNavigation:
   </ul>
 </div>
 
+
+
+![](/static/img/billede-hjemmeside-arrangement.jpg)
+
 I de smukke maritime omgivelser med udsigt over Øresund er der plads til hverdagsmad, romantiske middage, møder og festlige fejringer for hele familien. 
 
 Kontakt os på [mail](mailto:kontakt@restaurantsejlklubberne.dk) eller telefon 39 46 30 46 til en uforpligtende snak. 
-
-![](/static/img/billede-hjemmeside-arrangement.jpg)
 
 <h2 id="bryllup">Bryllup</h2> 
 
