@@ -9,9 +9,7 @@ eleventyNavigation:
   key: Takeaway
   order: 2
 ---
-
-
-![](/static/img/180645976_500555317793847_1789666457054511329_n.jpg)
+![](/static/img/hjemmeside-takeaway.jpg)
 
 **Åbningstider**
 
