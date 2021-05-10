@@ -22,5 +22,3 @@ Med SKOVS takeaway ønsker vi at skabe en lille dagligvare oase, hvor sejlende o
 Brødet bages om morgenen i restaurantens køkken. Forudbestil eksempelvis brød til weekenden via takeaway linket.
 
 ![](/static/img/180645976_500555317793847_1789666457054511329_n.jpg)
-
-<a class="call-to-action" target="_blank" href="https://login.onlinepos.dk/taw_v3/13687/?page=menukort&pgid=1576165">Bestil Takeaway</a>
