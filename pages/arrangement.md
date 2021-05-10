@@ -21,8 +21,6 @@ eleventyNavigation:
   </ul>
 </div>
 
-
-
 ![](/static/img/billede-hjemmeside-arrangement.jpg)
 
 I de smukke maritime omgivelser med udsigt over Øresund er der plads til hverdagsmad, romantiske middage, møder og festlige fejringer for hele familien. 
@@ -38,7 +36,7 @@ Vi er behjælpelige med alle forberedelserne, i alle festens faser - naturligvis
 
 </div>
 
-### Bryllups pakke
+### Bryllupspakke
 
 Bryllups arrangement fra 18:00 til 02:00
 
