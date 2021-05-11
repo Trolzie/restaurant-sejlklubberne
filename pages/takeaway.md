@@ -65,11 +65,7 @@ Squash 25,-
 
 Cocio 
 
-1 L friskpresset øko appelsinjuice fra Rosengården 
-
 0,5 L friskpresset øko appelsinjuice fra Rosengården 35,-
-
-0,33 L friskpresset øko appelsinjuice fra Rosengården 
 
 1 fl rødvin
 
@@ -79,8 +75,76 @@ Cocio
 
 1 fl bobler
 
-Sparkling The NON Alcohol blå
+Sparkling 
+
+### Kaffe
+
+Espresso db 26,-
+
+Cortado 35,-
+
+Americano 30,-
+
+Flat white 35,-
+
+Cafe latte 38,-
+
+Cappuccino 38,-
+
+Varm kakao med fløde 40,-
+
+Te 30,-
 
 
 
-Derudover forhandler vi et stort udvalg af charcuteri fra Rævhede Naturprodukter, mejeriprodukter, kaffe fra Kafferiet, Hansen is og tørvarer. Kom forbi SKOVS takeaway og se det store udvalg.
+### Dessert
+
+Passions/chokolade entremet 55,-
+
+Rabarber mousse med knas 40,- 
+
+Fransk citrontærte 50,-
+
+Rabarbertærte 48,-
+
+Flødebolle 18,-
+
+
+
+### Derudover forhandler vi varer fra:
+
+Charcuteri fra Rævhede Naturprodukter
+
+Mælk fra Thise
+
+Ost fra Arla
+
+Mel fra kornbymølle - purpurhvedemel og Ølandshvedemel 
+
+Kaffebønner fra Kafferiet
+
+Hansen is 
+
+Bornholmsk pasta
+
+Håndlavet marmelade fra Annas Gourmet
+
+Red grapefruit fra Marchesi
+
+Rogn Baerii
+
+1 fl Gin fra rogn
+
+Fisk på dåse fra Fangst
+
+Olivenolie Vierge
+
+Picholines oliven
+
+Balsamico 5 år
+
+
+
+ 
+
+Kom forbi SKOVS takeaway og se det store udvalg.
