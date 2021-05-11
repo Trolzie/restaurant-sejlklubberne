@@ -50,3 +50,33 @@ Skovser surdejsbrød 45,-
 Skovser bolle 12,-
 
 Skovser bolle med smør og ost 24,-
+
+### Drikkevarer
+
+Havbrus 0,5 L (danskvand)
+
+Havblik 0,5 L (vand)
+
+Jacobsen Fl øl
+
+Coca Cola 0,33 L
+
+1 L friskpresset øko appelsinjuice fra Rosengården 
+
+0,5 L friskpresset øko appelsinjuice fra Rosengården 
+
+0,33 L friskpresset øko appelsinjuice fra Rosengården 
+
+1 fl rødvin
+
+1 fl hvidvin
+
+1 fl Rosevin
+
+1 fl bobler
+
+Sparkling The NON Alcohol blå
+
+
+
+Derudover forhandler vi et stort udvalg af charcuteri fra Rævhede Naturprodukter, mejeriprodukter, kaffe fra Kafferiet og tørvarer. Kom forbi SKOVS takeaway og se det store udvalg.
