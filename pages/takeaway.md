@@ -57,13 +57,17 @@ Havbrus 0,5 L (danskvand)
 
 Havblik 0,5 L (vand)
 
-Jacobsen Fl øl
+Jacobsen Fl øl 35,-
 
-Coca Cola 0,33 L
+Coca Cola 0,33 L 20,-
+
+Squash 25,-
+
+Cocio 
 
 1 L friskpresset øko appelsinjuice fra Rosengården 
 
-0,5 L friskpresset øko appelsinjuice fra Rosengården 
+0,5 L friskpresset øko appelsinjuice fra Rosengården 35,-
 
 0,33 L friskpresset øko appelsinjuice fra Rosengården 
 
