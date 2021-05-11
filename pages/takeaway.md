@@ -63,7 +63,7 @@ Coca Cola 0,33 L 20,-
 
 Squash 25,-
 
-Cocio 
+Cocio 20,-
 
 0,5 L friskpresset øko appelsinjuice fra Rosengården 35,-
 
