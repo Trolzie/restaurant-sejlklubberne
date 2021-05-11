@@ -79,4 +79,4 @@ Sparkling The NON Alcohol blå
 
 
 
-Derudover forhandler vi et stort udvalg af charcuteri fra Rævhede Naturprodukter, mejeriprodukter, kaffe fra Kafferiet og tørvarer. Kom forbi SKOVS takeaway og se det store udvalg.
+Derudover forhandler vi et stort udvalg af charcuteri fra Rævhede Naturprodukter, mejeriprodukter, kaffe fra Kafferiet, Hansen is og tørvarer. Kom forbi SKOVS takeaway og se det store udvalg.
