@@ -9,7 +9,7 @@ eleventyNavigation:
   key: Takeaway
   order: 2
 ---
-![](/static/img/hjemmeside-takeaway.jpg)
+![](/static/img/img_20210510_111029.jpg)
 
 **Åbningstider**
 
@@ -95,8 +95,6 @@ Varm kakao med fløde 40,-
 
 Te 30,-
 
-
-
 ### Dessert
 
 Passions/chokolade entremet 55,-
@@ -108,8 +106,6 @@ Fransk citrontærte 50,-
 Rabarbertærte 48,-
 
 Flødebolle 18,-
-
-
 
 ### Derudover forhandler vi varer fra:
 
@@ -142,9 +138,5 @@ Olivenolie Vierge
 Picholines oliven
 
 Balsamico 5 år
-
-
-
- 
 
 Kom forbi SKOVS takeaway og se det store udvalg.
