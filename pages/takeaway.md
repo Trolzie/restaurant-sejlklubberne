@@ -19,7 +19,7 @@ Lørdag - søndag fra kl. 9-19
 
 **Bestil takeaway på telefon 39 64 30 46**
 
-Med SKOVS takeaway ønsker vi at skabe en lille dagligvare oase, hvor sejlende og besøgende på havnen kan købe proviant til turen – alt lige fra færdiglavede retter lige til at tage med hjem og varme, delikate oste, mælk, charcuteri, nybagt surdejsbrød og lækre takeaway retter. 
+Med SKOVS takeaway ønsker vi at skabe en lille oase, hvor sejlende og besøgende på havnen kan købe mad til turen – alt lige fra færdiglavede retter lige til at tage med hjem og varme, delikate oste, mælk, charcuteri, nybagt surdejsbrød og lækre takeaway retter. 
 
 ### Takeaway menu
 
