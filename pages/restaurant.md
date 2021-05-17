@@ -59,11 +59,9 @@ mayonnaise, citron og tapanade 110,-
 Okse tatar
 løg mayonnaise, syltet løg og sprød kartoffel 125,-
 
-Tuntatar
-bagte tomater og tomat vinaigrette 150,-
-Tilføj 10 gr. Baeri caviar 150,-
+Burrata med solmodne tomater fra Frankrig 120,-
 
-Dagens simreret efter kokkens lyst og iver
+Dagens ret efter kokkens lyst og iver
 
 \-spørg venligst jeres tjener omkring dette 150,- 
 
@@ -74,10 +72,9 @@ Petit fours 15,-
 Dagens kage 55,-
 
 Bagte rabarber
-rabarber mousse, vaniljeis og sprød crumble 75,-
+rabarber mousse, rabarber youghurt sorbet og sprød crumble 75,-
 
-Chokolade entremet
-cremeux, brændt hvid chokolade og chokoladeis 95,-
+Jordbær dessert med kardemommekiks, jordbærcreme, hvid chokolade og kærnemælksis 95,-
 
 <h2 id="aften">Aften kort</h2>
 
@@ -93,8 +90,7 @@ Pil selv rejer med mayonnaise, citron og grillet brød 140,-
 
 Oksetatar med løg mayonnaise, syltet løg og sprød kartoffel 125,-
 
-Tuntatar med bagte tomater og tomat vinagrette 150,-
-Tilføj 10 gr. Baeri caviar 150,-
+Burrata med solmodne tomater fra Frankrig 120,-
 
 Råstegt hummer med hvide asparges og sauce mousseline 280,-
 
@@ -107,14 +103,14 @@ Tilføj 10 gr. Baeri caviar 150,-
 
 Udbenet poussin. Frikass med forårs grønt og morkler 225,-
 
-Dagens simreret efter kokkens lyst og iver -spørg venligst jeres tjener omkring dette 150,-
+Dagens ret efter kokkens lyst og iver -spørg venligst jeres tjener omkring dette 150,-
 
 #### Dessert
 
 Petit four 15,-
 
-Bagte rabarber med rabarber mousse, vaniljeis og sprød crumble 75,-
+Bagte rabarber med rabarber mousse, rabarber youghurt sorbet og sprød crumble 75,-
 
-Chokolade entremet med cremeux, brændt hvid chokolade og chokoladeis og 95,-
+Jordbær dessert med kardemommekiks, jordbærcreme, hvid chokolade og kærnemælksis 95,-
 
 <a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
