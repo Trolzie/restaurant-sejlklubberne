@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Om os
   order: 5
 ---
-Besætningen har så småt indfundet deres pladser på kajen og vi er klar til at byde jer indenfor i de nyrenoverede lokaler. Med Kaptajn Peter Mose bag roret har restauranten stukket en ny retning og vi håber, at I vil tage godt imod os. 
+Besætningen har så småt indfundet deres pladser på kajen og vi er klar til at byde jer indenfor i de renoverede lokaler. Med Kaptajn Peter Mose bag roret har restauranten stukket en ny retning og vi håber, at I vil tage godt imod os. 
 
 **Ønsker du at være en del af teamet så send en ansøgning til [mail ](mailto:kontakt@restaurantsejlklubberne.dk)eller kom forbi med din ansøgning. Lige nu mangler vi tjenere til sommerteamet.** 
 
@@ -15,7 +15,7 @@ Besætningen har så småt indfundet deres pladser på kajen og vi er klar til a
 
 Hos Sejlklubbernes restaurant tænker vi bæredygtighed ind i alle restaurantens faser. Vi kan slet ikke lade være! Det er lige fra personalets uniformer, der er produceret af genanvendelige tekstiler til affaldssortering og valg af leverandører. 
 
-Udover Sejlklubbernes restaurant bor og forpagter Peter Mose Trekroner Fort. Han sejler hver dag, til og fra fortet. Det giver ham vind i håret og mulighed for, at tænke over de aftryk vi tilfører miljøet. *"Hvorfor vælge den til tider lette løsning, når nu det er lige så let at vælge de bæredygtige råvarer"* udtaler Peter Mose.  
+Udover Sejlklubbernes restaurant bor og forpagter Peter Mose Trekroner Fort. Han sejler hver dag til og fra fortet. Det giver ham vind i håret og mulighed for, at tænke over de aftryk vi tilfører miljøet. *"Hvorfor vælge den til tider lette løsning, når nu det er lige så let at vælge de bæredygtige råvarer"* udtaler Peter Mose.  
 
 ### Leverandører
 
@@ -25,15 +25,15 @@ Udover Sejlklubbernes restaurant bor og forpagter Peter Mose Trekroner Fort. Han
 
 Vi har valgt at få leveret tekstiler fra konceptet DFD upcy hvor kundernes kasserede kvalitetstekstiler genanvendes og gives nyt liv. 
 
-”Hvor en dug fra en restaurant eksempelvis tidligere blev kasseret på grund af en rødvinsplet, klipper vi i dag rundt om pletten og syr stoffet om til en klassisk skjorte, et lækkert forklæde eller noget helt tredje”. (Udtaler DFD upcy)
-
-Alle tekstilerne i Sejlklubbernes restaurant er fra DFD upcy og vi sætter en ære i at gøre op med brug og smid væk-kulturen. For eksempel har alle kokkeskjorterne en historie og forklæderne kan være lavet af flere forskellige stoffer, hvilket blot giver charme og karakter. Læs mere om DFD upcy her
+Hos Sejlklubbernes restaurant sætter vi en ære i at gøre op med brug og smid væk-kulturen. For eksempel har alle kokkeskjorterne en historie og forklæderne kan være lavet af flere forskellige stoffer, hvilket blot giver charme og karakter. 
 
 #### [FANGST ”fisk på dåse”](https://fangst.com/)
 
 At en delikatesse som fisk og skaldyr på dåse er forbeholdt tapas i udlandet ønsker vi at gøre op med. De danske farvande rummer et spisekammer fyldt med noget af det allerbedste fisk. Derfor har vi valgt at lave et samarbejde med det dansk produceret mærket FANGST. 
 
-Du kan købe deres ”fiske på dåse” i vores takeaway SKOVS, samt smage på delikatessen i restauranten. Her serverer vi FANGST på grillet surdejsbrød, med citron og en lækker salat. (Link til menukort)
+Du kan købe deres ”fiske på dåse” i vores takeaway SKOVS, samt smage på delikatessen i restauranten. Her serverer vi FANGST på grillet surdejsbrød, med citron og en lækker salat. 
+
+[Se menukortet her](https://www.sejlklubbernesrestaurant.dk/restaurant/)
 
 #### [Kafferiet – slow coffee](https://kafferiet.dk/)
 
