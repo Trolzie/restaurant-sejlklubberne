@@ -100,13 +100,13 @@ Menu 1: 1.295,- / Menu 2: 1.095,- kr. pr person
 Med i prisen er inkluderet opsætning, borddækning, stofservietter, blomster, menukort og servering.
 Minimum 15 couverter.
 
-#### Konceptet og middagen er Sharing eller Family Style
+### Konceptet og middagen er Sharing eller Family Style
 
 Det betyder, at der bliver serveret flere retter på mindre fade. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere. Menuen vil være tilpasset sæsonen, og der kan forekomme ændringer. 
 
 </div>
 
-#### Menu 1
+### Menu 1
 
 Hummer
 Vild brøndkarse - blomkål - sauce
@@ -132,7 +132,7 @@ Stikkelsbær - sherry - sprødt kyllingeskind
 Mandelkage
 Honning mousse - syltede rabarber - brændt hvid chokolade
 
-#### Menu 2
+### Menu 2
 
 Flammegrillet laks
 Soya glace - chili mayonnaise – radise
@@ -157,7 +157,7 @@ Hindbær - brændt hvid chokolade - sorbet
 
 <div class="text-left">
 
-#### Lokaleoversigt
+### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres konfirmation. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **[Se lokalerne og lokaleleje ved at klikke her](https://romantic-bhabha-ebc1f3.netlify.com/lokaleoversigt)**
 
@@ -245,11 +245,11 @@ Kaffe og sødt
 
 Ved booking af mødefaciliteter medfølger Wi-Fi, whiteboard, projektor, blokke, penne og vand med og uden brus. Andet udstyr kan arrangeres efter ønske og aftale, og afregnes udover den faste pris.
 
-#### Vores middag serveres som Sharing Style.
+### Vores middag serveres som Sharing Style.
 
 Det vil sige, at der bliver serveret flere retter på mindre fade og de vil løbende blive serveret. Dette giver en afslappet og rolig stemning og får gæsterne til at føle sig engageret i måltidet. Der vil samtidig være forskellige retter at smage på og mulighed for at tage lidt mere.
 
-#### Lokaleoversigt
+### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres møde. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **[Se lokalerne og lokaleleje ved at klikke her](https://romantic-bhabha-ebc1f3.netlify.com/lokaleoversigt)**
 
@@ -267,7 +267,7 @@ I de smukke maritime omgivelser med udsigt over Øresund tilbyder vi de perfekte
 Max 3 timer eller efter skriftlig aftale
 Minimum 20 couverter.
 
-#### Velkomst
+### Velkomst
 
 Brunch serveret ved bordene à flere omgange
 
@@ -275,7 +275,7 @@ Kaffe, te, juice og vand med og uden brus
 
 495,- kr. pr person
 
-#### Brunchmenu
+### Brunchmenu
 
 Surdejsbrød og rugbrød med saltet smør
 
@@ -303,17 +303,19 @@ Cremet røræg med ristet lufttørret bacon og purløg
 
 Små ristede pølser fra Hegnsholt
 
-#### Tilkøb - lidt ekstra til jeres brunch
+### Tilkøb - lidt ekstra til jeres brunch
 
 Østers - 3 stk. serveret naturale med citron og hot sauce 145,-
 
 Lun salat af hel hummerhale med hummerfløde og aromatiske salater 155,-
 
-Bearii kaviar 30 gr. - Smørristede kartoffelblinis, creme fraiche og rødløg. Pris pr. dåse à 30 gr
+Bearii kaviar 30 gr. - Smørristede kartoffelblinis, creme fraiche og rødløg. 
+
+Pris pr. dåse à 30gr
 
 <div class="text-left">
 
-#### Lokaleoversigt
+### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres brunch. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **[Se lokalerne og lokaleleje ved at klikke her](https://romantic-bhabha-ebc1f3.netlify.com/lokaleoversigt)**
 
@@ -341,7 +343,7 @@ Frugt
 
 225,- kr. pr person
 
-#### Nedenstående er priser på ekstra tilvalg
+### Nedenstående er priser på ekstra tilvalg
 
 Smørrebrød uspecificeret 95,-
 
@@ -353,7 +355,7 @@ Udvalg af charcuteri og oste med diverse garniture og tapenade.
 
 Serveret med surdejsbrød og smør 175,-
 
-#### Snacks og små herlige sager (min 5 styk per person)
+### Snacks og små herlige sager (min 5 styk per person)
 
 Luftig urtecreme med rå grøntsager 25,-
 
@@ -401,7 +403,7 @@ Vaniljeparfait med knas 35,-
 
 <div class="text-left">
 
-#### Lokaleoversigt
+### Lokaleoversigt
 
 Sejlklubbernes restaurant tilbyder seks forskellige lokale muligheder til jeres arrangement. Fælles for dem alle er den flotte havudsigt. På alle vores lokaler er der en lokaleleje som ubeskåret går til Skovshoved sejlklub og KDY, da vi lejer lokalerne. **[Se lokalerne og lokaleleje ved at klikke her](https://romantic-bhabha-ebc1f3.netlify.com/lokaleoversigt)**
 
