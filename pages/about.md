@@ -15,7 +15,7 @@ Besætningen har så småt indfundet deres pladser på kajen og vi er klar til a
 
 Hos Sejlklubbernes restaurant tænker vi bæredygtighed ind i alle restaurantens faser. Vi kan slet ikke lade være! Det er lige fra personalets uniformer, der er produceret af genanvendelige tekstiler til affaldssortering og valg af leverandører. 
 
-Forpagter Peter Mose bor på og driver Trekroner Fort og sejler hver dag, til og fra fortet. Det giver ham vind i håret og mulighed for, at tænke over de aftryk vi tilfører miljøet. Hvorfor vælge den hurtige løsning, når nu det er lige så let at vælge de bæredygtige råvarer udtaler Peter Mose.  
+Udover Sejlklubbernes restaurant bor og forpagter Peter Mose Trekroner Fort. Han sejler hver dag, til og fra fortet. Det giver ham vind i håret og mulighed for, at tænke over de aftryk vi tilfører miljøet. *"Hvorfor vælge den til tider lette løsning, når nu det er lige så let at vælge de bæredygtige råvarer"* udtaler Peter Mose.  
 
 ### Leverandører
 
