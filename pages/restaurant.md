@@ -29,11 +29,11 @@ Den nye forpagter og kok Peter Mose er inspireret af det franske køkken og mest
 
 Vi glæder os til at byde jer velkommen.
 
-**Restauranten serverer frokost fra kl. 12-15 og middag fra kl. 17–21**
+#### **Restauranten serverer frokost fra kl. 12-15 og middag fra kl. 17–21**
 
 <h2 id="frokost">Frokost kort</h2>
 
-#### Smørrebrød
+### Smørrebrød
 
 Gammeldags modnede senneps sild med smilende æg 75,-
 
@@ -45,7 +45,7 @@ Hønsesalat med hvide asparges, bacon og tomat 85,-
 
 Roastbeef med remoulade, stegte løg og syltede agurker 85,-
 
-#### Frokostretter
+### Frokostretter
 
 Salat med rimmet laks
 æg og friske urter 155,-
@@ -65,7 +65,7 @@ Dagens ret efter kokkens lyst og iver
 
 \-spørg venligst jeres tjener omkring dette 150,- 
 
-#### Dessert
+### Dessert
 
 Petit fours 15,-
 
@@ -78,7 +78,7 @@ Jordbær dessert med kardemommekiks, jordbærcreme, hvid chokolade og kærnemæl
 
 <h2 id="aften">Aften kort</h2>
 
-#### Forretter
+### Forretter
 
 Salat med rimmet laks æg og friske urter 155,-
 
@@ -96,7 +96,7 @@ Råstegt hummer med hvide asparges og sauce mousseline 280,-
 
 Kalvebrissel med ærter francaise med tørsaltet bacon, hjerte salat og stegesky 165,-
 
-#### Hovedretter
+### Hovedretter
 
 Stegt pighvar med nye løg, spinat og cremet pighvar sauce 240,-
 Tilføj 10 gr. Baeri caviar 150,-
@@ -105,7 +105,7 @@ Udbenet poussin. Frikass med forårs grønt og morkler 225,-
 
 Dagens ret efter kokkens lyst og iver -spørg venligst jeres tjener omkring dette 150,-
 
-#### Dessert
+### Dessert
 
 Petit four 15,-
 
