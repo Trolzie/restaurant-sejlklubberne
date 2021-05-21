@@ -109,17 +109,17 @@ Flødebolle 18,-
 
 ### Derudover forhandler vi varer fra:
 
-Charcuteri fra Rævhede Naturprodukter
+[Charcuteri fra Rævhede Naturprodukter](https://www.raevhedenaturprodukter.dk/)
 
-Mælk fra Thise
+[Mælk fra Thise](https://thise.dk/)
 
-Ost fra Arla
+[Ost fra Arla unika](https://arlaunika.dk/)
 
-Mel fra kornbymølle - purpurhvedemel og Ølandshvedemel 
+[Mel fra kornbymølle - purpurhvedemel og Ølandshvedemel ](http://kornbymoelle.dk/)
 
-Kaffebønner fra Kafferiet
+[Kaffebønner fra Kafferiet](https://kafferiet.dk/)
 
-Hansen is 
+[Hansen is ](https://hansens-is.dk/)
 
 Bornholmsk pasta
 
