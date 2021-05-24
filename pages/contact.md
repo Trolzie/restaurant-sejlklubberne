@@ -15,8 +15,8 @@ Restauranten serverer frokost fra kl. 12-15 og middag fra kl. 17–21
 
 <p><a href="tel:39643046">39 64 30 46</a></p>
 
-<p><a href="mailto:kontakt@restaurantsejlklubberne.dk">
-  kontakt@restaurantsejlklubberne.dk
+<p><a href="mailto:kontakt@sejlklubbernesrestaurant.dk">
+  kontakt@sejlklubbernesrestaurant.dk
 </a></p>
 
 <p><a href="https://www.google.com/maps/place/Restaurant+Sejlklubberne/@55.763477,12.600384,17z/data=!4m5!3m4!1s0x46524d0b744546df:0x105ae786db2b0f39!8m2!3d55.7634311!4d12.600442">

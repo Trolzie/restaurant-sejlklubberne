@@ -1,7 +1,8 @@
 ---
 layout: layouts/restaurant.njk
 title: Restaurant
-metaDescription: Sejlklubbernes Restarant serverer frokost, smørrebrød, forretter, hovederetter, dessert.
+metaDescription: Sejlklubbernes Restarant serverer frokost, smørrebrød,
+  forretter, hovederetter, dessert.
 section: restaurant
 date: 2018-01-01
 permalink: /restaurant/index.html
@@ -16,6 +17,10 @@ eleventyNavigation:
   </ul>
 </div>
 
+![](/static/img/billede-hjemmeside-restaurant-1000.jpg)
+
+<a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
+
 I de smukke maritime omgivelser med udsigt over Øresund er der plads til hverdagsmad, romantiske middage, møder og festlige fejringer for hele familien. 
 
 Vi gør os altid umage og vi går aldrig på kompromis med smagsoplevelsen. Vores råvarer og leverandører er håndplukkede, og vi går efter sæsonens bedste råvarer. 
@@ -24,17 +29,11 @@ Den nye forpagter og kok Peter Mose er inspireret af det franske køkken og mest
 
 Vi glæder os til at byde jer velkommen.
 
-**Restauranten serverer frokost fra kl. 12-15 og middag fra kl. 17–21**
-
-<a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
-
-![](/static/img/180881031_889854698259351_8564399153402122095_n.jpg)
-
-![](/static/img/logo_wave_blue-0.1x.jpg)
+#### **Restauranten serverer frokost fra kl. 12-15 og middag fra kl. 17–21**
 
 <h2 id="frokost">Frokost kort</h2>
 
-#### Smørrebrød
+### Smørrebrød
 
 Gammeldags modnede senneps sild med smilende æg 75,-
 
@@ -46,7 +45,7 @@ Hønsesalat med hvide asparges, bacon og tomat 85,-
 
 Roastbeef med remoulade, stegte løg og syltede agurker 85,-
 
-#### Frokostretter
+### Frokostretter
 
 Salat med rimmet laks
 æg og friske urter 155,-
@@ -60,73 +59,58 @@ mayonnaise, citron og tapanade 110,-
 Okse tatar
 løg mayonnaise, syltet løg og sprød kartoffel 125,-
 
-Tuntatar
-bagte tomater og tomat vinaigrette 150,-
-Tilføj 10 gr. Baeri caviar 150,-
+Burrata med solmodne tomater fra Frankrig 120,-
 
-Dagens simreret efter kokkens lyst og iver
+Dagens ret efter kokkens lyst og iver
 
 \-spørg venligst jeres tjener omkring dette 150,- 
 
-#### Dessert
+### Dessert
 
 Petit fours 15,-
 
 Dagens kage 55,-
 
 Bagte rabarber
-rabarber mousse, vaniljeis og sprød crumble 75,-
+rabarber mousse, rabarber youghurt sorbet og sprød crumble 75,-
 
-Chokolade entremet
-cremeux, brændt hvid chokolade og chokoladeis 95,-
+Jordbær dessert med kardemommekiks, jordbærcreme, hvid chokolade og kærnemælksis 95,-
 
 <h2 id="aften">Aften kort</h2>
 
-#### Forretter
+### Forretter
 
-Salat med rimmet laks
-æg og friske urter 155,-
+Salat med rimmet laks æg og friske urter 155,-
 
-Dåser fra Fangst – hør tjener for udvalg
-mayonnaise, citron og tapanade 110,-
+Dåser fra Fangst – hør tjener for udvalg. Serveres med mayonnaise, citron og tapanade 110,-
 
-Charcuterie
-sortfod skinke, coppa, peber pølse og behørig garniture 140,-
+Charcuterie med sortfod skinke, coppa, peber pølse og behørig garniture 140,-
 
-Oksetatar
-løg mayonnaise, syltet løg og sprød kartoffel 125,-
+Pil selv rejer med mayonnaise, citron og grillet brød 140,-
 
-Tuntatar
-bagte tomater og tomat vinagrette 150,-
+Oksetatar med løg mayonnaise, syltet løg og sprød kartoffel 125,-
+
+Burrata med solmodne tomater fra Frankrig 120,-
+
+Råstegt hummer med hvide asparges og sauce mousseline 280,-
+
+Kalvebrissel med ærter francaise med tørsaltet bacon, hjerte salat og stegesky 165,-
+
+### Hovedretter
+
+Stegt pighvar med nye løg, spinat og cremet pighvar sauce 240,-
 Tilføj 10 gr. Baeri caviar 150,-
 
-Råstegt hummer
-hvide asparges og sauce mousseline 280,-
+Udbenet poussin. Frikass med forårs grønt og morkler 225,-
 
-Kalvebrissel
-ærter francaise med tørsaltet bacon, hjerte salat og stegesky 165,-
+Dagens ret efter kokkens lyst og iver -spørg venligst jeres tjener omkring dette 150,-
 
-#### Hovedretter
+### Dessert
 
-Pocheret helleflynder
-hvide asparges, spinat og muslinge sauce 195,-
-Tilføj 10 gr. Baeri caviar 150,-
+Petit four 15,-
 
-Stegt oksemørbrad
-grønne asparges og tæt sauce bordelaise med røget marv 260,-
+Bagte rabarber med rabarber mousse, rabarber youghurt sorbet og sprød crumble 75,-
 
-Dagens simreret efter kokkens lyst og iver
-
-\-spørg venligst jeres tjener omkring dette 150,-
-
-#### Dessert
-
-Petit four
-
-Bagte rabarber
-rabarber mousse, vaniljeis og sprød crumble 75,-
-
-Chokolade entremet
-cremeux, brændt hvid chokolade og chokoladeis og 95,-
+Jordbær dessert med kardemommekiks, jordbærcreme, hvid chokolade og kærnemælksis 95,-
 
 <a class="call-to-action" target="_blank" href="https://book.dinnerbooking.com/dk/en-US/book/index/2826/2">Book Bord</a>
