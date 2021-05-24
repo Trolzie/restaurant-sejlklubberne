@@ -622,3 +622,20 @@ ul.restaurant-links li {
 .text-left {
 	text-align: left;
 }
+
+.profile-wrapper {
+	display: flex;
+	justify-content: space-between;
+	margin: 2rem 0;
+}
+
+.profile {
+	width: 100%;
+	max-width: 20%;
+}
+
+.profile img {
+	border-radius: 50%;
+	width: 80%;
+	margin-bottom: 1rem;
+}
