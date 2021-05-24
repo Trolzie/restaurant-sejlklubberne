@@ -7,7 +7,9 @@ eleventyNavigation:
   key: Om os
   order: 5
 ---
-Besætningen har så småt indfundet deres pladser på kajen og vi er klar til at byde jer indenfor i de renoverede lokaler. Med Kaptajn Peter Mose bag roret har restauranten stukket en ny retning og vi håber, at I vil tage godt imod os. 
+Besætningen har så småt indfundet deres pladser på kajen og vi er klar til at byde jer indenfor i de renoverede lokaler. Med Kaptajn Peter Mose bag roret har restauranten stukket en ny retning og vi håber, at I vil tage godt imod os.
+
+![](/static/img/blank-profile-picture.png)
 
 **Ønsker du at være en del af teamet så send en ansøgning til [mail ](mailto:kontakt@sejlklubbernesrestaurant.dk)eller kom forbi med din ansøgning. Lige nu mangler vi tjenere, kokke og kokkeelever til sommerteamet.** 
 
