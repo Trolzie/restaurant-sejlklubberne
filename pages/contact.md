@@ -9,9 +9,9 @@ eleventyNavigation:
   key: Kontakt
   order: 6
 ---
-<p>Takeaway er åbent man-fre fra kl. 8-19 og lør-søn fra kl. 8-19</p>
+<p>Takeaway er åbent tirs - søn fra kl. 8-19</p>
 
-Restauranten serverer frokost fra kl. 12-15 og middag fra kl. 17–21
+Restauranten serverer frokost tirs - søn fra kl. 12-15 og middag fra kl. 17–21
 
 <p><a href="tel:39643046">39 64 30 46</a></p>
 
