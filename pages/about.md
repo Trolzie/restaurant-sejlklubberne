@@ -9,29 +9,6 @@ eleventyNavigation:
 ---
 Besætningen har så småt indfundet deres pladser på kajen og vi er klar til at byde jer indenfor i de renoverede lokaler. Med Kaptajn Peter Mose bag roret har restauranten stukket en ny retning og vi håber, at I vil tage godt imod os.
 
-<div class="profile-wrapper">
-  <div class="profile">
-  <img src="/static/img/blank-profile-picture.png" />
-  Robert Smith
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-  </div>
-  <div class="profile">
-  <img src="/static/img/blank-profile-picture.png" />
-  Robert Smith
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-  </div>
-  <div class="profile">
-  <img src="/static/img/blank-profile-picture.png" />
-  Robert Smith
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-  </div>
-  <div class="profile">
-  <img src="/static/img/blank-profile-picture.png" />
-  Robert Smith
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-  </div>
-</div>
-
 **Ønsker du at være en del af teamet så send en ansøgning til [mail ](mailto:kontakt@sejlklubbernesrestaurant.dk)eller kom forbi med din ansøgning. Lige nu mangler vi tjenere, kokke og kokkeelever til sommerteamet.** 
 
 ### Bæredygtighed
